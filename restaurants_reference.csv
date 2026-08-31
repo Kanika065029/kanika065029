@@ -1,0 +1,61 @@
+restaurant_id,restaurant_name,city,zone,cuisine,rating,avg_prep_time_min
+R001,South Indian Kitchen 01,Delhi NCR,Noida Sector 18,South Indian,3.6,16
+R002,South Indian Kitchen 02,Delhi NCR,Shastri Nagar,South Indian,3.3,14
+R003,Biryani Kitchen 03,Delhi NCR,Connaught Place,Biryani,4.2,34
+R004,Healthy Kitchen 04,Meerut,Saket,Healthy,4.0,20
+R005,North Indian Kitchen 05,Delhi NCR,Shastri Nagar,North Indian,3.8,16
+R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,3.4,15
+R007,Burgers Kitchen 07,Meerut,Noida Sector 18,Burgers,4.6,35
+R008,Desserts Kitchen 08,Delhi NCR,Shastri Nagar,Desserts,3.3,21
+R009,Cafe Kitchen 09,Meerut,Saket,Cafe,4.4,13
+R010,Biryani Kitchen 10,Meerut,Rohini,Biryani,4.7,15
+R011,Momos Kitchen 11,Meerut,Ganga Nagar,Momos,4.3,23
+R012,Chinese Kitchen 12,Meerut,Gurugram Cyber City,Chinese,3.6,20
+R013,South Indian Kitchen 13,Delhi NCR,Saket,South Indian,3.5,24
+R014,Pizza Kitchen 14,Delhi NCR,Gurugram Cyber City,Pizza,4.6,13
+R015,Biryani Kitchen 15,Delhi NCR,Gurugram Cyber City,Biryani,3.9,14
+R016,Biryani Kitchen 16,Meerut,Saket,Biryani,4.3,24
+R017,Desserts Kitchen 17,Delhi NCR,Noida Sector 18,Desserts,3.4,35
+R018,Healthy Kitchen 18,Meerut,Shastri Nagar,Healthy,4.7,24
+R019,Burgers Kitchen 19,Delhi NCR,Dwarka,Burgers,4.1,14
+R020,North Indian Kitchen 20,Delhi NCR,Dwarka,North Indian,4.3,33
+R021,Momos Kitchen 21,Delhi NCR,Shastri Nagar,Momos,3.8,26
+R022,Healthy Kitchen 22,Meerut,Connaught Place,Healthy,4.4,15
+R023,Healthy Kitchen 23,Meerut,Gurugram Cyber City,Healthy,3.4,25
+R024,Chinese Kitchen 24,Meerut,Connaught Place,Chinese,4.8,35
+R025,Pizza Kitchen 25,Delhi NCR,Rohini,Pizza,4.7,21
+R026,Healthy Kitchen 26,Delhi NCR,Dwarka,Healthy,3.8,17
+R027,Healthy Kitchen 27,Delhi NCR,Gurugram Cyber City,Healthy,4.0,15
+R028,Burgers Kitchen 28,Meerut,Saket,Burgers,3.3,30
+R029,South Indian Kitchen 29,Delhi NCR,Ganga Nagar,South Indian,4.6,29
+R030,Chinese Kitchen 30,Delhi NCR,Ganga Nagar,Chinese,4.8,17
+R031,Pizza Kitchen 31,Meerut,Saket,Pizza,4.8,35
+R032,Biryani Kitchen 32,Meerut,Shastri Nagar,Biryani,4.9,32
+R033,Burgers Kitchen 33,Meerut,Ganga Nagar,Burgers,3.4,19
+R034,South Indian Kitchen 34,Meerut,Connaught Place,South Indian,4.2,19
+R035,Cafe Kitchen 35,Delhi NCR,Connaught Place,Cafe,3.3,32
+R036,North Indian Kitchen 36,Delhi NCR,Rohini,North Indian,4.7,22
+R037,South Indian Kitchen 37,Delhi NCR,Noida Sector 18,South Indian,4.3,18
+R038,Healthy Kitchen 38,Delhi NCR,Ganga Nagar,Healthy,3.6,27
+R039,Momos Kitchen 39,Delhi NCR,Rohini,Momos,3.4,25
+R040,Burgers Kitchen 40,Meerut,Shastri Nagar,Burgers,4.0,35
+R041,North Indian Kitchen 41,Delhi NCR,Connaught Place,North Indian,3.9,22
+R042,South Indian Kitchen 42,Delhi NCR,Saket,South Indian,3.5,26
+R043,Chinese Kitchen 43,Meerut,Dwarka,Chinese,3.7,19
+R044,South Indian Kitchen 44,Meerut,Rohini,South Indian,3.3,29
+R045,North Indian Kitchen 45,Delhi NCR,Saket,North Indian,3.5,27
+R046,Desserts Kitchen 46,Delhi NCR,Shastri Nagar,Desserts,4.7,17
+R047,Momos Kitchen 47,Delhi NCR,Shastri Nagar,Momos,3.7,26
+R048,Pizza Kitchen 48,Meerut,Ganga Nagar,Pizza,3.5,21
+R049,Biryani Kitchen 49,Delhi NCR,Connaught Place,Biryani,4.5,13
+R050,North Indian Kitchen 50,Meerut,Dwarka,North Indian,3.3,28
+R051,South Indian Kitchen 51,Delhi NCR,Rohini,South Indian,4.2,33
+R052,Biryani Kitchen 52,Meerut,Rohini,Biryani,4.8,30
+R053,Biryani Kitchen 53,Delhi NCR,Rohini,Biryani,3.9,30
+R054,Cafe Kitchen 54,Meerut,Noida Sector 18,Cafe,3.5,34
+R055,Burgers Kitchen 55,Delhi NCR,Noida Sector 18,Burgers,3.9,33
+R056,Pizza Kitchen 56,Meerut,Gurugram Cyber City,Pizza,4.8,14
+R057,North Indian Kitchen 57,Meerut,Rohini,North Indian,3.3,18
+R058,Healthy Kitchen 58,Meerut,Dwarka,Healthy,4.8,14
+R059,Biryani Kitchen 59,Meerut,Noida Sector 18,Biryani,3.5,29
+R060,Pizza Kitchen 60,Delhi NCR,Noida Sector 18,Pizza,4.8,15

@@ -1,0 +1,101 @@
+delivery_partner_id,city,zone,vehicle_type,experience_months
+D001,Meerut,Noida Sector 18,Scooter,17
+D002,Meerut,Noida Sector 18,Scooter,6
+D003,Delhi NCR,Dwarka,Scooter,28
+D004,Meerut,Ganga Nagar,Bike,23
+D005,Delhi NCR,Gurugram Cyber City,EV Bike,22
+D006,Meerut,Shastri Nagar,Bike,25
+D007,Delhi NCR,Gurugram Cyber City,Bike,31
+D008,Delhi NCR,Noida Sector 18,Scooter,17
+D009,Delhi NCR,Rohini,Bike,20
+D010,Meerut,Shastri Nagar,Bike,12
+D011,Meerut,Gurugram Cyber City,Bike,12
+D012,Meerut,Ganga Nagar,Scooter,21
+D013,Meerut,Connaught Place,Bike,27
+D014,Meerut,Saket,Bike,39
+D015,Meerut,Connaught Place,Bike,20
+D016,Meerut,Ganga Nagar,Scooter,36
+D017,Delhi NCR,Rohini,Scooter,10
+D018,Meerut,Gurugram Cyber City,Scooter,25
+D019,Delhi NCR,Shastri Nagar,Bike,38
+D020,Delhi NCR,Gurugram Cyber City,EV Bike,20
+D021,Delhi NCR,Shastri Nagar,EV Bike,30
+D022,Meerut,Rohini,Bike,8
+D023,Meerut,Gurugram Cyber City,Scooter,37
+D024,Meerut,Dwarka,Bike,40
+D025,Meerut,Connaught Place,Bike,4
+D026,Delhi NCR,Gurugram Cyber City,Scooter,35
+D027,Meerut,Dwarka,EV Bike,34
+D028,Delhi NCR,Gurugram Cyber City,EV Bike,22
+D029,Delhi NCR,Shastri Nagar,EV Bike,21
+D030,Meerut,Ganga Nagar,EV Bike,38
+D031,Meerut,Ganga Nagar,Bike,25
+D032,Meerut,Rohini,Scooter,39
+D033,Meerut,Connaught Place,EV Bike,32
+D034,Meerut,Saket,EV Bike,5
+D035,Meerut,Dwarka,EV Bike,42
+D036,Meerut,Dwarka,EV Bike,17
+D037,Delhi NCR,Rohini,Bike,3
+D038,Meerut,Gurugram Cyber City,Scooter,11
+D039,Meerut,Saket,Scooter,34
+D040,Meerut,Connaught Place,EV Bike,10
+D041,Delhi NCR,Gurugram Cyber City,EV Bike,32
+D042,Meerut,Gurugram Cyber City,Bike,31
+D043,Meerut,Gurugram Cyber City,EV Bike,48
+D044,Meerut,Ganga Nagar,Bike,17
+D045,Meerut,Noida Sector 18,Bike,21
+D046,Meerut,Saket,EV Bike,47
+D047,Meerut,Gurugram Cyber City,Scooter,24
+D048,Meerut,Noida Sector 18,Bike,38
+D049,Meerut,Shastri Nagar,Scooter,11
+D050,Meerut,Connaught Place,Scooter,47
+D051,Delhi NCR,Gurugram Cyber City,Scooter,43
+D052,Meerut,Ganga Nagar,Bike,14
+D053,Meerut,Noida Sector 18,Bike,8
+D054,Delhi NCR,Saket,Bike,44
+D055,Delhi NCR,Saket,Bike,8
+D056,Meerut,Gurugram Cyber City,EV Bike,32
+D057,Delhi NCR,Dwarka,Bike,37
+D058,Delhi NCR,Shastri Nagar,EV Bike,32
+D059,Meerut,Saket,Scooter,22
+D060,Meerut,Connaught Place,Bike,43
+D061,Delhi NCR,Connaught Place,Bike,28
+D062,Delhi NCR,Connaught Place,Scooter,33
+D063,Delhi NCR,Noida Sector 18,Bike,2
+D064,Meerut,Rohini,Scooter,20
+D065,Meerut,Ganga Nagar,Bike,34
+D066,Meerut,Noida Sector 18,Bike,9
+D067,Meerut,Dwarka,EV Bike,31
+D068,Meerut,Dwarka,Bike,23
+D069,Meerut,Saket,Bike,41
+D070,Meerut,Shastri Nagar,EV Bike,22
+D071,Delhi NCR,Shastri Nagar,EV Bike,8
+D072,Delhi NCR,Dwarka,Scooter,22
+D073,Delhi NCR,Connaught Place,Scooter,26
+D074,Delhi NCR,Ganga Nagar,Scooter,23
+D075,Meerut,Connaught Place,Scooter,43
+D076,Meerut,Saket,Bike,44
+D077,Delhi NCR,Ganga Nagar,Scooter,12
+D078,Meerut,Noida Sector 18,EV Bike,9
+D079,Meerut,Gurugram Cyber City,EV Bike,16
+D080,Delhi NCR,Dwarka,Scooter,11
+D081,Meerut,Gurugram Cyber City,Scooter,46
+D082,Meerut,Saket,Bike,45
+D083,Delhi NCR,Ganga Nagar,EV Bike,47
+D084,Meerut,Rohini,EV Bike,9
+D085,Delhi NCR,Saket,EV Bike,36
+D086,Delhi NCR,Dwarka,Scooter,35
+D087,Meerut,Rohini,EV Bike,15
+D088,Meerut,Rohini,EV Bike,30
+D089,Delhi NCR,Ganga Nagar,Bike,34
+D090,Meerut,Ganga Nagar,EV Bike,5
+D091,Meerut,Noida Sector 18,EV Bike,3
+D092,Meerut,Noida Sector 18,Bike,15
+D093,Delhi NCR,Connaught Place,Scooter,24
+D094,Delhi NCR,Connaught Place,Bike,32
+D095,Delhi NCR,Noida Sector 18,Scooter,13
+D096,Delhi NCR,Shastri Nagar,Scooter,26
+D097,Meerut,Shastri Nagar,Scooter,7
+D098,Delhi NCR,Gurugram Cyber City,Bike,13
+D099,Meerut,Dwarka,EV Bike,16
+D100,Delhi NCR,Connaught Place,Scooter,31

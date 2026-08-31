@@ -1,0 +1,501 @@
+order_id,customer_id,restaurant_id,restaurant_name,city,zone,cuisine,order_timestamp,item_count,order_value,payment_mode,final_status,delivery_partner_id,delivery_distance_km,actual_delivery_time_min,customer_rating
+O00001,C0345,R054,Cafe Kitchen 54,Meerut,Noida Sector 18,Cafe,2026-08-07 18:24:52,4,567.46,Cash,delivered,D070,8.15,20,5
+O00002,C0112,R056,Pizza Kitchen 56,Meerut,Gurugram Cyber City,Pizza,2026-08-01 12:32:18,5,574.66,Cash,delivered,D100,12.34,10,5
+O00003,C0193,R021,Momos Kitchen 21,Delhi NCR,Shastri Nagar,Momos,2026-08-09 17:15:54,2,560.55,Wallet,delivered,D097,2.72,20,4
+O00004,C0171,R037,South Indian Kitchen 37,Delhi NCR,Noida Sector 18,South Indian,2026-08-04 13:47:07,4,1395.01,Card,delivered,D002,9.96,17,5
+O00005,C0009,R018,Healthy Kitchen 18,Meerut,Shastri Nagar,Healthy,2026-08-10 19:46:26,2,672.31,Cash,delivered,D071,11.86,22,5
+O00006,C0004,R031,Pizza Kitchen 31,Meerut,Saket,Pizza,2026-08-14 20:14:04,1,1331.47,Card,delivered,D018,11.75,24,5
+O00007,C0418,R041,North Indian Kitchen 41,Delhi NCR,Connaught Place,North Indian,2026-08-13 16:05:23,4,1734.88,Card,delivered,D035,12.41,15,5
+O00008,C0455,R043,Chinese Kitchen 43,Meerut,Dwarka,Chinese,2026-08-05 10:59:04,3,1295.09,UPI,delivered,D061,9.7,15,5
+O00009,C0382,R041,North Indian Kitchen 41,Delhi NCR,Connaught Place,North Indian,2026-08-02 16:14:53,5,321.63,Wallet,delivered,D007,6.74,15,5
+O00010,C0139,R014,Pizza Kitchen 14,Delhi NCR,Gurugram Cyber City,Pizza,2026-08-02 12:27:28,5,1091.18,Wallet,delivered,D017,7.96,14,4
+O00011,C0401,R008,Desserts Kitchen 08,Delhi NCR,Shastri Nagar,Desserts,2026-08-05 13:46:40,5,993.28,Card,delivered,D047,10.71,15,5
+O00012,C0125,R038,Healthy Kitchen 38,Delhi NCR,Ganga Nagar,Healthy,2026-08-05 16:23:07,2,1691.31,Card,delivered,D049,10.21,14,5
+O00013,C0019,R042,South Indian Kitchen 42,Delhi NCR,Saket,South Indian,2026-08-13 18:38:40,1,1663.04,Card,delivered,D090,7.56,13,5
+O00014,C0257,R019,Burgers Kitchen 19,Delhi NCR,Dwarka,Burgers,2026-08-01 17:06:18,1,865.56,UPI,delivered,D045,10.06,16,5
+O00015,C0119,R057,North Indian Kitchen 57,Meerut,Rohini,North Indian,2026-08-11 12:11:40,4,1251.69,UPI,delivered,D052,1.25,16,4
+O00016,C0495,R048,Pizza Kitchen 48,Meerut,Ganga Nagar,Pizza,2026-08-10 16:39:25,3,1139.21,Cash,delivered,D041,7.87,17,5
+O00017,C0356,R021,Momos Kitchen 21,Delhi NCR,Shastri Nagar,Momos,2026-08-03 17:18:08,4,499.36,UPI,delivered,D072,12.09,13,5
+O00018,C0294,R009,Cafe Kitchen 09,Meerut,Saket,Cafe,2026-08-13 18:52:23,1,1067.27,Wallet,delivered,D035,11.09,11,3
+O00019,C0324,R031,Pizza Kitchen 31,Meerut,Saket,Pizza,2026-08-10 12:50:13,1,1501.65,Cash,delivered,D022,4.47,13,4
+O00020,C0075,R052,Biryani Kitchen 52,Meerut,Rohini,Biryani,2026-08-14 13:48:53,4,1281.98,Card,delivered,D042,2.05,17,5
+O00021,C0408,R046,Desserts Kitchen 46,Delhi NCR,Shastri Nagar,Desserts,2026-08-07 13:31:17,3,716.58,Cash,delivered,D028,9.81,19,3
+O00022,C0333,R022,Healthy Kitchen 22,Meerut,Connaught Place,Healthy,2026-08-14 14:05:41,1,776.7,Cash,delivered,D021,4.65,20,5
+O00023,C0441,R031,Pizza Kitchen 31,Meerut,Saket,Pizza,2026-08-03 17:04:14,1,812.91,UPI,delivered,D089,12.42,16,4
+O00024,C0302,R054,Cafe Kitchen 54,Meerut,Noida Sector 18,Cafe,2026-08-06 16:20:50,3,423.73,UPI,delivered,D050,10.78,8,5
+O00025,C0007,R024,Chinese Kitchen 24,Meerut,Connaught Place,Chinese,2026-08-03 16:55:53,3,1109.41,Card,delivered,D041,4.16,8,3
+O00026,C0275,R038,Healthy Kitchen 38,Delhi NCR,Ganga Nagar,Healthy,2026-08-10 20:48:53,1,1239.74,Cash,delivered,D051,2.51,11,5
+O00027,C0400,R059,Biryani Kitchen 59,Meerut,Noida Sector 18,Biryani,2026-08-12 11:49:57,4,246.97,Cash,delivered,D035,6.34,12,5
+O00028,C0092,R003,Biryani Kitchen 03,Delhi NCR,Connaught Place,Biryani,2026-08-13 21:47:41,3,870.99,Card,delivered,D071,2.55,18,5
+O00029,C0103,R036,North Indian Kitchen 36,Delhi NCR,Rohini,North Indian,2026-08-13 14:47:39,3,588.13,Wallet,delivered,D073,11.74,8,2
+O00030,C0252,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-12 14:05:02,5,1674.04,Wallet,delivered,D019,6.91,14,5
+O00031,C0163,R051,South Indian Kitchen 51,Delhi NCR,Rohini,South Indian,2026-08-04 11:12:08,5,1447.9,UPI,delivered,D035,2.56,15,5
+O00032,C0134,R058,Healthy Kitchen 58,Meerut,Dwarka,Healthy,2026-08-01 16:54:28,5,1089.53,Card,delivered,D023,10.58,8,5
+O00033,C0415,R039,Momos Kitchen 39,Delhi NCR,Rohini,Momos,2026-08-01 17:03:10,4,1678.61,Wallet,delivered,D016,3.63,11,4
+O00034,C0215,R012,Chinese Kitchen 12,Meerut,Gurugram Cyber City,Chinese,2026-08-13 18:15:40,5,1790.54,UPI,delivered,D083,11.51,16,5
+O00035,C0274,R058,Healthy Kitchen 58,Meerut,Dwarka,Healthy,2026-08-01 13:36:54,4,1772.26,Cash,delivered,D095,10.31,18,5
+O00036,C0270,R033,Burgers Kitchen 33,Meerut,Ganga Nagar,Burgers,2026-08-06 19:12:51,2,408.78,Cash,cancelled,D001,9.95,,
+O00037,C0434,R034,South Indian Kitchen 34,Meerut,Connaught Place,South Indian,2026-08-02 15:45:42,1,832.95,Cash,delivered,D047,8.54,21,4
+O00038,C0017,R011,Momos Kitchen 11,Meerut,Ganga Nagar,Momos,2026-08-06 19:14:40,4,1104.88,Card,delivered,D078,8.39,11,5
+O00039,C0194,R024,Chinese Kitchen 24,Meerut,Connaught Place,Chinese,2026-08-07 11:53:30,5,1461.97,Card,delivered,D070,4.15,9,4
+O00040,C0456,R049,Biryani Kitchen 49,Delhi NCR,Connaught Place,Biryani,2026-08-01 11:21:13,4,1759.04,Cash,delivered,D021,7.66,10,5
+O00041,C0329,R040,Burgers Kitchen 40,Meerut,Shastri Nagar,Burgers,2026-08-03 15:56:24,4,791.04,UPI,delivered,D050,1.9,17,5
+O00042,C0154,R013,South Indian Kitchen 13,Delhi NCR,Saket,South Indian,2026-08-14 21:02:32,5,1113.95,Card,delivered,D051,2.63,10,5
+O00043,C0448,R004,Healthy Kitchen 04,Meerut,Saket,Healthy,2026-08-10 19:33:50,4,871.35,Card,delivered,D090,10.01,14,5
+O00044,C0138,R042,South Indian Kitchen 42,Delhi NCR,Saket,South Indian,2026-08-06 14:19:17,1,1548.55,Card,delivered,D003,8.49,19,4
+O00045,C0128,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-01 15:45:12,4,638.36,Wallet,delivered,D059,6.72,12,5
+O00046,C0106,R035,Cafe Kitchen 35,Delhi NCR,Connaught Place,Cafe,2026-08-07 18:01:55,1,1448.49,Wallet,delivered,D084,4.05,8,5
+O00047,C0192,R036,North Indian Kitchen 36,Delhi NCR,Rohini,North Indian,2026-08-11 11:30:04,3,738.05,Cash,delivered,D039,2.89,11,5
+O00048,C0274,R048,Pizza Kitchen 48,Meerut,Ganga Nagar,Pizza,2026-08-11 15:32:19,5,1552.67,Card,delivered,D061,11.9,14,5
+O00049,C0484,R044,South Indian Kitchen 44,Meerut,Rohini,South Indian,2026-08-08 13:32:07,4,1588.0,Cash,delivered,D010,12.36,15,5
+O00050,C0251,R013,South Indian Kitchen 13,Delhi NCR,Saket,South Indian,2026-08-10 16:40:27,4,845.43,Wallet,cancelled,D017,11.28,,
+O00051,C0388,R025,Pizza Kitchen 25,Delhi NCR,Rohini,Pizza,2026-08-11 10:40:46,3,598.12,Cash,delivered,D003,1.94,10,3
+O00052,C0109,R054,Cafe Kitchen 54,Meerut,Noida Sector 18,Cafe,2026-08-10 18:10:07,1,786.55,Wallet,delivered,D003,12.44,13,5
+O00053,C0339,R009,Cafe Kitchen 09,Meerut,Saket,Cafe,2026-08-09 14:39:38,4,1321.16,UPI,delivered,D085,6.82,8,5
+O00054,C0057,R058,Healthy Kitchen 58,Meerut,Dwarka,Healthy,2026-08-11 17:09:05,1,1447.24,UPI,delivered,D074,6.45,12,4
+O00055,C0138,R013,South Indian Kitchen 13,Delhi NCR,Saket,South Indian,2026-08-14 15:11:07,4,841.24,Cash,delivered,D048,2.7,8,5
+O00056,C0351,R058,Healthy Kitchen 58,Meerut,Dwarka,Healthy,2026-08-03 17:58:31,4,380.7,Wallet,cancelled,D094,9.16,,
+O00057,C0348,R034,South Indian Kitchen 34,Meerut,Connaught Place,South Indian,2026-08-12 19:46:36,3,558.38,UPI,delivered,D099,8.45,24,4
+O00058,C0170,R018,Healthy Kitchen 18,Meerut,Shastri Nagar,Healthy,2026-08-09 13:35:41,2,805.82,UPI,delivered,D007,4.77,18,5
+O00059,C0233,R023,Healthy Kitchen 23,Meerut,Gurugram Cyber City,Healthy,2026-08-13 19:38:30,3,1346.65,Wallet,delivered,D072,10.58,14,5
+O00060,C0477,R046,Desserts Kitchen 46,Delhi NCR,Shastri Nagar,Desserts,2026-08-08 13:45:21,4,372.43,UPI,delivered,D028,8.64,18,5
+O00061,C0418,R017,Desserts Kitchen 17,Delhi NCR,Noida Sector 18,Desserts,2026-08-07 20:38:38,5,1612.31,Wallet,delivered,D014,12.17,15,5
+O00062,C0500,R011,Momos Kitchen 11,Meerut,Ganga Nagar,Momos,2026-08-09 21:40:20,3,1336.56,Wallet,delivered,D065,11.12,16,5
+O00063,C0445,R027,Healthy Kitchen 27,Delhi NCR,Gurugram Cyber City,Healthy,2026-08-11 18:24:15,3,1017.48,UPI,delivered,D096,1.81,17,5
+O00064,C0264,R015,Biryani Kitchen 15,Delhi NCR,Gurugram Cyber City,Biryani,2026-08-01 16:17:35,2,622.78,Cash,cancelled,D049,7.94,,
+O00065,C0397,R037,South Indian Kitchen 37,Delhi NCR,Noida Sector 18,South Indian,2026-08-13 19:35:22,3,316.61,Card,delivered,D063,7.34,12,5
+O00066,C0471,R044,South Indian Kitchen 44,Meerut,Rohini,South Indian,2026-08-01 20:56:20,1,810.2,Wallet,delivered,D032,10.27,17,5
+O00067,C0351,R031,Pizza Kitchen 31,Meerut,Saket,Pizza,2026-08-04 18:53:44,4,1605.82,UPI,delivered,D014,2.19,9,3
+O00068,C0382,R003,Biryani Kitchen 03,Delhi NCR,Connaught Place,Biryani,2026-08-14 11:22:59,3,1004.54,Cash,delivered,D090,1.55,20,4
+O00069,C0306,R028,Burgers Kitchen 28,Meerut,Saket,Burgers,2026-08-09 11:19:13,3,1397.27,Card,delivered,D069,3.69,8,5
+O00070,C0372,R060,Pizza Kitchen 60,Delhi NCR,Noida Sector 18,Pizza,2026-08-06 12:42:41,3,575.25,UPI,delivered,D043,8.65,18,5
+O00071,C0397,R037,South Indian Kitchen 37,Delhi NCR,Noida Sector 18,South Indian,2026-08-09 11:11:41,3,1170.6,Card,delivered,D063,11.28,8,5
+O00072,C0047,R028,Burgers Kitchen 28,Meerut,Saket,Burgers,2026-08-09 10:42:15,5,1556.77,Card,delivered,D047,11.92,15,5
+O00073,C0053,R035,Cafe Kitchen 35,Delhi NCR,Connaught Place,Cafe,2026-08-05 19:34:36,4,478.16,Cash,delivered,D095,7.04,13,5
+O00074,C0059,R055,Burgers Kitchen 55,Delhi NCR,Noida Sector 18,Burgers,2026-08-08 17:13:37,4,457.99,UPI,delivered,D087,8.31,8,3
+O00075,C0247,R020,North Indian Kitchen 20,Delhi NCR,Dwarka,North Indian,2026-08-14 16:38:09,2,1471.39,Cash,delivered,D029,1.98,22,5
+O00076,C0348,R048,Pizza Kitchen 48,Meerut,Ganga Nagar,Pizza,2026-08-09 16:23:55,5,269.5,Wallet,delivered,D056,2.3,22,4
+O00077,C0004,R028,Burgers Kitchen 28,Meerut,Saket,Burgers,2026-08-04 21:51:20,1,854.15,Card,delivered,D084,7.58,18,5
+O00078,C0438,R015,Biryani Kitchen 15,Delhi NCR,Gurugram Cyber City,Biryani,2026-08-04 17:50:44,1,1718.79,Card,delivered,D096,3.02,14,5
+O00079,C0147,R052,Biryani Kitchen 52,Meerut,Rohini,Biryani,2026-08-01 12:40:31,2,902.36,Cash,delivered,D077,3.12,16,3
+O00080,C0372,R041,North Indian Kitchen 41,Delhi NCR,Connaught Place,North Indian,2026-08-14 14:14:38,4,1740.89,Wallet,delivered,D045,7.51,13,5
+O00081,C0015,R055,Burgers Kitchen 55,Delhi NCR,Noida Sector 18,Burgers,2026-08-05 11:24:40,2,1461.85,Card,delivered,D015,9.12,12,4
+O00082,C0447,R018,Healthy Kitchen 18,Meerut,Shastri Nagar,Healthy,2026-08-04 13:53:15,3,1538.14,Card,delivered,D027,8.14,21,5
+O00083,C0482,R003,Biryani Kitchen 03,Delhi NCR,Connaught Place,Biryani,2026-08-06 16:55:43,4,1441.45,UPI,delivered,D065,3.58,14,5
+O00084,C0293,R017,Desserts Kitchen 17,Delhi NCR,Noida Sector 18,Desserts,2026-08-11 13:52:06,2,1353.3,Wallet,delivered,D074,3.2,11,5
+O00085,C0185,R024,Chinese Kitchen 24,Meerut,Connaught Place,Chinese,2026-08-09 14:22:01,3,858.82,Card,delivered,D072,5.21,10,5
+O00086,C0293,R046,Desserts Kitchen 46,Delhi NCR,Shastri Nagar,Desserts,2026-08-02 12:21:14,3,701.57,Cash,delivered,D010,7.09,18,5
+O00087,C0014,R046,Desserts Kitchen 46,Delhi NCR,Shastri Nagar,Desserts,2026-08-13 11:06:16,1,1188.96,Wallet,delivered,D068,2.68,16,5
+O00088,C0223,R034,South Indian Kitchen 34,Meerut,Connaught Place,South Indian,2026-08-11 18:19:58,5,755.47,Card,delivered,D082,2.96,14,2
+O00089,C0004,R040,Burgers Kitchen 40,Meerut,Shastri Nagar,Burgers,2026-08-04 16:56:35,2,899.37,Card,delivered,D048,2.1,11,5
+O00090,C0010,R010,Biryani Kitchen 10,Meerut,Rohini,Biryani,2026-08-09 10:11:06,2,651.38,Wallet,delivered,D007,3.65,11,5
+O00091,C0425,R004,Healthy Kitchen 04,Meerut,Saket,Healthy,2026-08-13 21:15:24,4,1433.96,Card,delivered,D016,8.73,13,4
+O00092,C0223,R023,Healthy Kitchen 23,Meerut,Gurugram Cyber City,Healthy,2026-08-03 14:37:07,2,833.29,UPI,delivered,D002,9.91,11,4
+O00093,C0413,R051,South Indian Kitchen 51,Delhi NCR,Rohini,South Indian,2026-08-04 10:44:24,2,773.07,Cash,delivered,D094,9.08,16,4
+O00094,C0439,R024,Chinese Kitchen 24,Meerut,Connaught Place,Chinese,2026-08-10 13:20:46,5,301.35,Wallet,delivered,D100,4.4,15,5
+O00095,C0199,R050,North Indian Kitchen 50,Meerut,Dwarka,North Indian,2026-08-09 19:44:37,3,609.5,Card,delivered,D063,11.69,21,5
+O00096,C0050,R014,Pizza Kitchen 14,Delhi NCR,Gurugram Cyber City,Pizza,2026-08-04 18:24:12,2,508.99,Card,delivered,D093,5.24,23,5
+O00097,C0433,R024,Chinese Kitchen 24,Meerut,Connaught Place,Chinese,2026-08-13 20:27:52,5,1361.39,Card,delivered,D053,12.07,13,5
+O00098,C0285,R043,Chinese Kitchen 43,Meerut,Dwarka,Chinese,2026-08-03 11:02:29,2,769.05,Cash,delivered,D074,2.24,12,5
+O00099,C0395,R039,Momos Kitchen 39,Delhi NCR,Rohini,Momos,2026-08-14 16:26:59,2,1588.53,UPI,delivered,D045,1.67,16,5
+O00100,C0173,R013,South Indian Kitchen 13,Delhi NCR,Saket,South Indian,2026-08-10 21:03:35,1,838.71,Wallet,delivered,D061,6.71,15,5
+O00101,C0336,R004,Healthy Kitchen 04,Meerut,Saket,Healthy,2026-08-05 12:22:39,4,1514.53,Card,delivered,D099,9.76,11,5
+O00102,C0268,R056,Pizza Kitchen 56,Meerut,Gurugram Cyber City,Pizza,2026-08-09 17:39:46,1,1787.68,Wallet,delivered,D034,1.88,10,4
+O00103,C0162,R060,Pizza Kitchen 60,Delhi NCR,Noida Sector 18,Pizza,2026-08-09 11:11:12,4,1001.04,UPI,cancelled,D077,9.61,,
+O00104,C0010,R024,Chinese Kitchen 24,Meerut,Connaught Place,Chinese,2026-08-06 15:40:19,5,577.93,Cash,delivered,D088,11.93,12,4
+O00105,C0169,R051,South Indian Kitchen 51,Delhi NCR,Rohini,South Indian,2026-08-03 13:41:08,2,1129.65,Card,delivered,D070,11.74,16,5
+O00106,C0382,R035,Cafe Kitchen 35,Delhi NCR,Connaught Place,Cafe,2026-08-13 13:06:08,5,495.59,Cash,delivered,D020,8.97,10,5
+O00107,C0034,R021,Momos Kitchen 21,Delhi NCR,Shastri Nagar,Momos,2026-08-14 19:31:44,4,719.83,Card,delivered,D057,8.11,15,5
+O00108,C0286,R028,Burgers Kitchen 28,Meerut,Saket,Burgers,2026-08-13 20:03:12,4,665.89,Cash,delivered,D067,8.13,14,3
+O00109,C0166,R052,Biryani Kitchen 52,Meerut,Rohini,Biryani,2026-08-12 12:45:46,1,397.67,Wallet,delivered,D084,11.93,21,5
+O00110,C0068,R012,Chinese Kitchen 12,Meerut,Gurugram Cyber City,Chinese,2026-08-10 14:00:29,4,996.2,UPI,delivered,D001,6.58,23,5
+O00111,C0296,R037,South Indian Kitchen 37,Delhi NCR,Noida Sector 18,South Indian,2026-08-02 10:06:26,2,1789.98,Cash,delivered,D043,9.67,13,5
+O00112,C0314,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-10 21:40:33,4,1779.5,Cash,delivered,D014,5.2,22,4
+O00113,C0287,R026,Healthy Kitchen 26,Delhi NCR,Dwarka,Healthy,2026-08-11 13:44:18,1,607.07,Cash,delivered,D002,4.97,15,5
+O00114,C0459,R023,Healthy Kitchen 23,Meerut,Gurugram Cyber City,Healthy,2026-08-13 16:59:47,5,289.64,Cash,delivered,D060,3.55,12,5
+O00115,C0440,R038,Healthy Kitchen 38,Delhi NCR,Ganga Nagar,Healthy,2026-08-01 14:26:05,2,995.29,Cash,delivered,D091,2.47,10,5
+O00116,C0106,R003,Biryani Kitchen 03,Delhi NCR,Connaught Place,Biryani,2026-08-07 21:55:33,3,385.34,UPI,delivered,D059,2.37,11,5
+O00117,C0053,R026,Healthy Kitchen 26,Delhi NCR,Dwarka,Healthy,2026-08-06 18:20:17,3,426.49,Card,delivered,D070,1.77,19,2
+O00118,C0387,R056,Pizza Kitchen 56,Meerut,Gurugram Cyber City,Pizza,2026-08-10 12:05:52,4,1483.76,UPI,delivered,D060,11.91,14,4
+O00119,C0310,R017,Desserts Kitchen 17,Delhi NCR,Noida Sector 18,Desserts,2026-08-02 16:52:45,3,1474.81,UPI,delivered,D066,3.9,19,4
+O00120,C0340,R050,North Indian Kitchen 50,Meerut,Dwarka,North Indian,2026-08-12 21:36:53,5,978.61,Wallet,delivered,D010,1.99,14,4
+O00121,C0106,R038,Healthy Kitchen 38,Delhi NCR,Ganga Nagar,Healthy,2026-08-10 20:19:58,4,1709.33,Cash,delivered,D039,10.78,18,5
+O00122,C0321,R023,Healthy Kitchen 23,Meerut,Gurugram Cyber City,Healthy,2026-08-07 16:24:27,2,1072.19,Wallet,delivered,D092,4.46,12,5
+O00123,C0458,R049,Biryani Kitchen 49,Delhi NCR,Connaught Place,Biryani,2026-08-03 17:32:27,4,1083.28,Wallet,delivered,D080,6.83,13,5
+O00124,C0265,R007,Burgers Kitchen 07,Meerut,Noida Sector 18,Burgers,2026-08-10 11:15:30,1,1209.06,Cash,delivered,D067,6.99,18,5
+O00125,C0320,R002,South Indian Kitchen 02,Delhi NCR,Shastri Nagar,South Indian,2026-08-08 11:08:32,3,322.98,Cash,delivered,D037,8.02,8,5
+O00126,C0212,R045,North Indian Kitchen 45,Delhi NCR,Saket,North Indian,2026-08-11 17:46:40,5,467.65,Cash,cancelled,D031,6.44,,
+O00127,C0244,R037,South Indian Kitchen 37,Delhi NCR,Noida Sector 18,South Indian,2026-08-12 18:14:24,4,1293.62,Wallet,delivered,D061,5.52,15,4
+O00128,C0051,R018,Healthy Kitchen 18,Meerut,Shastri Nagar,Healthy,2026-08-10 16:29:49,2,1280.47,Card,delivered,D084,8.8,12,5
+O00129,C0458,R026,Healthy Kitchen 26,Delhi NCR,Dwarka,Healthy,2026-08-11 11:45:07,5,338.22,Card,delivered,D077,4.06,8,5
+O00130,C0092,R051,South Indian Kitchen 51,Delhi NCR,Rohini,South Indian,2026-08-08 13:39:25,4,485.51,UPI,delivered,D009,11.51,15,5
+O00131,C0395,R060,Pizza Kitchen 60,Delhi NCR,Noida Sector 18,Pizza,2026-08-07 16:54:46,1,1449.5,Card,cancelled,D062,4.97,,
+O00132,C0156,R046,Desserts Kitchen 46,Delhi NCR,Shastri Nagar,Desserts,2026-08-11 20:05:23,3,1055.4,UPI,delivered,D008,1.64,14,5
+O00133,C0304,R016,Biryani Kitchen 16,Meerut,Saket,Biryani,2026-08-07 11:50:34,4,1229.45,Wallet,delivered,D063,10.1,9,3
+O00134,C0324,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-14 11:29:39,5,473.1,UPI,delivered,D040,3.69,22,5
+O00135,C0225,R016,Biryani Kitchen 16,Meerut,Saket,Biryani,2026-08-01 12:06:50,5,1555.79,Wallet,delivered,D075,3.23,8,4
+O00136,C0424,R057,North Indian Kitchen 57,Meerut,Rohini,North Indian,2026-08-06 16:00:35,1,577.02,UPI,delivered,D039,8.65,21,4
+O00137,C0015,R060,Pizza Kitchen 60,Delhi NCR,Noida Sector 18,Pizza,2026-08-02 11:57:15,5,1354.24,Cash,delivered,D066,3.77,10,4
+O00138,C0184,R035,Cafe Kitchen 35,Delhi NCR,Connaught Place,Cafe,2026-08-06 12:02:44,3,1109.87,Card,delivered,D026,3.68,11,4
+O00139,C0220,R029,South Indian Kitchen 29,Delhi NCR,Ganga Nagar,South Indian,2026-08-06 16:37:14,5,1626.92,Card,delivered,D032,9.49,11,5
+O00140,C0332,R007,Burgers Kitchen 07,Meerut,Noida Sector 18,Burgers,2026-08-08 20:19:10,5,1325.29,UPI,delivered,D003,8.28,11,5
+O00141,C0346,R024,Chinese Kitchen 24,Meerut,Connaught Place,Chinese,2026-08-02 16:23:29,3,1190.61,Cash,delivered,D007,12.29,9,4
+O00142,C0425,R009,Cafe Kitchen 09,Meerut,Saket,Cafe,2026-08-12 18:43:52,3,1052.57,Wallet,delivered,D061,2.11,12,5
+O00143,C0350,R040,Burgers Kitchen 40,Meerut,Shastri Nagar,Burgers,2026-08-08 15:26:28,1,1380.33,Cash,delivered,D017,5.85,19,5
+O00144,C0275,R036,North Indian Kitchen 36,Delhi NCR,Rohini,North Indian,2026-08-03 21:44:57,2,1266.17,Card,delivered,D024,4.14,13,4
+O00145,C0497,R054,Cafe Kitchen 54,Meerut,Noida Sector 18,Cafe,2026-08-09 15:41:45,3,672.89,Card,delivered,D070,2.78,11,5
+O00146,C0229,R050,North Indian Kitchen 50,Meerut,Dwarka,North Indian,2026-08-02 18:25:12,5,984.74,UPI,delivered,D086,5.56,15,2
+O00147,C0107,R022,Healthy Kitchen 22,Meerut,Connaught Place,Healthy,2026-08-14 18:21:04,5,1693.04,Wallet,delivered,D061,7.48,12,5
+O00148,C0079,R018,Healthy Kitchen 18,Meerut,Shastri Nagar,Healthy,2026-08-11 20:30:07,3,1246.1,Wallet,delivered,D039,6.77,9,5
+O00149,C0084,R005,North Indian Kitchen 05,Delhi NCR,Shastri Nagar,North Indian,2026-08-06 16:40:58,1,1728.25,Cash,delivered,D035,3.27,17,4
+O00150,C0175,R011,Momos Kitchen 11,Meerut,Ganga Nagar,Momos,2026-08-04 12:32:14,5,1530.52,UPI,delivered,D014,5.13,11,5
+O00151,C0058,R008,Desserts Kitchen 08,Delhi NCR,Shastri Nagar,Desserts,2026-08-13 17:48:27,1,268.03,UPI,delivered,D003,11.47,12,3
+O00152,C0483,R018,Healthy Kitchen 18,Meerut,Shastri Nagar,Healthy,2026-08-06 15:10:54,5,1001.02,Card,delivered,D075,3.65,12,4
+O00153,C0491,R014,Pizza Kitchen 14,Delhi NCR,Gurugram Cyber City,Pizza,2026-08-14 15:24:27,2,542.84,Wallet,delivered,D024,2.74,13,5
+O00154,C0209,R022,Healthy Kitchen 22,Meerut,Connaught Place,Healthy,2026-08-04 11:57:53,3,1483.9,Card,cancelled,D055,7.11,,
+O00155,C0347,R013,South Indian Kitchen 13,Delhi NCR,Saket,South Indian,2026-08-03 16:25:44,1,1144.89,Card,cancelled,D016,7.92,,
+O00156,C0207,R015,Biryani Kitchen 15,Delhi NCR,Gurugram Cyber City,Biryani,2026-08-14 16:46:31,5,645.63,Cash,delivered,D030,8.02,21,5
+O00157,C0050,R008,Desserts Kitchen 08,Delhi NCR,Shastri Nagar,Desserts,2026-08-13 18:49:31,2,1468.37,Cash,delivered,D085,10.35,17,5
+O00158,C0392,R015,Biryani Kitchen 15,Delhi NCR,Gurugram Cyber City,Biryani,2026-08-11 17:42:35,5,1296.6,Wallet,delivered,D073,6.79,14,5
+O00159,C0180,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-04 13:15:41,1,699.36,UPI,delivered,D085,4.89,12,5
+O00160,C0315,R022,Healthy Kitchen 22,Meerut,Connaught Place,Healthy,2026-08-07 13:31:40,1,1555.73,Card,delivered,D047,8.26,13,5
+O00161,C0129,R044,South Indian Kitchen 44,Meerut,Rohini,South Indian,2026-08-08 20:48:35,1,488.96,Card,delivered,D066,7.22,18,5
+O00162,C0426,R008,Desserts Kitchen 08,Delhi NCR,Shastri Nagar,Desserts,2026-08-04 16:17:52,2,659.27,Cash,delivered,D082,3.37,8,4
+O00163,C0161,R037,South Indian Kitchen 37,Delhi NCR,Noida Sector 18,South Indian,2026-08-07 15:42:42,4,1617.15,Card,delivered,D009,10.57,22,5
+O00164,C0217,R026,Healthy Kitchen 26,Delhi NCR,Dwarka,Healthy,2026-08-02 12:13:17,3,903.16,UPI,delivered,D019,6.57,18,4
+O00165,C0404,R029,South Indian Kitchen 29,Delhi NCR,Ganga Nagar,South Indian,2026-08-09 16:19:40,3,1733.57,UPI,delivered,D033,11.68,10,5
+O00166,C0400,R033,Burgers Kitchen 33,Meerut,Ganga Nagar,Burgers,2026-08-12 16:59:53,4,732.36,UPI,delivered,D061,8.0,15,5
+O00167,C0295,R007,Burgers Kitchen 07,Meerut,Noida Sector 18,Burgers,2026-08-03 13:33:45,2,1751.46,Wallet,delivered,D015,3.16,10,5
+O00168,C0332,R044,South Indian Kitchen 44,Meerut,Rohini,South Indian,2026-08-04 11:29:12,2,618.85,UPI,delivered,D081,12.03,8,4
+O00169,C0422,R036,North Indian Kitchen 36,Delhi NCR,Rohini,North Indian,2026-08-11 13:26:11,2,853.64,UPI,delivered,D094,5.38,14,5
+O00170,C0477,R029,South Indian Kitchen 29,Delhi NCR,Ganga Nagar,South Indian,2026-08-06 19:42:51,1,1157.17,UPI,delivered,D061,5.39,20,5
+O00171,C0144,R054,Cafe Kitchen 54,Meerut,Noida Sector 18,Cafe,2026-08-07 14:57:56,3,621.15,Cash,delivered,D047,10.84,14,5
+O00172,C0288,R033,Burgers Kitchen 33,Meerut,Ganga Nagar,Burgers,2026-08-08 11:54:46,1,1587.01,Cash,delivered,D059,7.56,16,5
+O00173,C0349,R015,Biryani Kitchen 15,Delhi NCR,Gurugram Cyber City,Biryani,2026-08-06 19:59:06,2,1539.16,UPI,delivered,D051,7.91,18,1
+O00174,C0092,R029,South Indian Kitchen 29,Delhi NCR,Ganga Nagar,South Indian,2026-08-14 16:05:01,2,1563.75,Wallet,delivered,D099,4.57,8,5
+O00175,C0189,R021,Momos Kitchen 21,Delhi NCR,Shastri Nagar,Momos,2026-08-11 16:05:02,4,1021.35,Card,delivered,D056,7.13,24,4
+O00176,C0417,R018,Healthy Kitchen 18,Meerut,Shastri Nagar,Healthy,2026-08-05 19:05:49,1,1005.51,Wallet,delivered,D046,11.11,11,4
+O00177,C0245,R053,Biryani Kitchen 53,Delhi NCR,Rohini,Biryani,2026-08-07 20:47:38,3,1361.46,Cash,delivered,D089,2.73,8,4
+O00178,C0243,R049,Biryani Kitchen 49,Delhi NCR,Connaught Place,Biryani,2026-08-02 12:57:09,4,1382.05,Wallet,delivered,D003,7.63,11,5
+O00179,C0271,R002,South Indian Kitchen 02,Delhi NCR,Shastri Nagar,South Indian,2026-08-10 15:35:04,4,628.56,Wallet,delivered,D055,1.44,17,4
+O00180,C0214,R058,Healthy Kitchen 58,Meerut,Dwarka,Healthy,2026-08-11 21:23:50,2,955.72,Card,delivered,D087,3.45,8,5
+O00181,C0115,R033,Burgers Kitchen 33,Meerut,Ganga Nagar,Burgers,2026-08-06 15:49:02,5,1432.15,Cash,delivered,D034,11.67,8,5
+O00182,C0061,R026,Healthy Kitchen 26,Delhi NCR,Dwarka,Healthy,2026-08-03 21:18:45,5,906.43,Wallet,delivered,D047,10.46,14,4
+O00183,C0341,R016,Biryani Kitchen 16,Meerut,Saket,Biryani,2026-08-13 18:26:50,4,565.09,Wallet,delivered,D020,6.2,9,5
+O00184,C0463,R043,Chinese Kitchen 43,Meerut,Dwarka,Chinese,2026-08-11 21:51:42,3,1601.3,Wallet,delivered,D008,1.29,14,4
+O00185,C0379,R010,Biryani Kitchen 10,Meerut,Rohini,Biryani,2026-08-09 14:13:05,3,1018.67,Cash,delivered,D067,4.12,21,5
+O00186,C0294,R054,Cafe Kitchen 54,Meerut,Noida Sector 18,Cafe,2026-08-08 15:15:51,5,1393.21,Card,delivered,D001,9.27,16,5
+O00187,C0190,R046,Desserts Kitchen 46,Delhi NCR,Shastri Nagar,Desserts,2026-08-09 18:49:25,5,1595.22,Wallet,delivered,D076,6.92,8,5
+O00188,C0057,R009,Cafe Kitchen 09,Meerut,Saket,Cafe,2026-08-10 14:02:33,3,445.29,Cash,delivered,D048,2.81,8,5
+O00189,C0369,R017,Desserts Kitchen 17,Delhi NCR,Noida Sector 18,Desserts,2026-08-03 18:40:29,4,1418.69,Card,delivered,D098,5.83,23,4
+O00190,C0292,R034,South Indian Kitchen 34,Meerut,Connaught Place,South Indian,2026-08-13 17:32:57,5,229.86,Card,delivered,D025,2.16,20,5
+O00191,C0209,R050,North Indian Kitchen 50,Meerut,Dwarka,North Indian,2026-08-01 19:20:11,1,243.47,Cash,delivered,D022,5.44,13,5
+O00192,C0454,R002,South Indian Kitchen 02,Delhi NCR,Shastri Nagar,South Indian,2026-08-09 19:43:06,5,594.11,Card,delivered,D035,3.5,22,5
+O00193,C0478,R055,Burgers Kitchen 55,Delhi NCR,Noida Sector 18,Burgers,2026-08-10 14:53:43,3,808.25,Card,delivered,D035,7.56,14,4
+O00194,C0363,R051,South Indian Kitchen 51,Delhi NCR,Rohini,South Indian,2026-08-04 20:20:21,5,537.0,Cash,cancelled,D035,8.08,,
+O00195,C0003,R004,Healthy Kitchen 04,Meerut,Saket,Healthy,2026-08-03 16:35:57,4,1314.38,Wallet,delivered,D087,11.29,12,5
+O00196,C0047,R058,Healthy Kitchen 58,Meerut,Dwarka,Healthy,2026-08-11 14:51:45,4,553.84,Cash,cancelled,D079,12.32,,
+O00197,C0327,R046,Desserts Kitchen 46,Delhi NCR,Shastri Nagar,Desserts,2026-08-14 14:36:32,5,990.42,Card,delivered,D015,3.18,22,5
+O00198,C0002,R049,Biryani Kitchen 49,Delhi NCR,Connaught Place,Biryani,2026-08-11 20:03:54,4,1702.01,Wallet,delivered,D083,7.05,16,3
+O00199,C0321,R009,Cafe Kitchen 09,Meerut,Saket,Cafe,2026-08-08 16:51:01,3,1148.05,Cash,delivered,D004,7.07,9,4
+O00200,C0034,R014,Pizza Kitchen 14,Delhi NCR,Gurugram Cyber City,Pizza,2026-08-01 18:03:18,4,1559.89,UPI,delivered,D087,1.32,23,5
+O00201,C0035,R025,Pizza Kitchen 25,Delhi NCR,Rohini,Pizza,2026-08-03 20:32:16,4,768.63,Wallet,delivered,D074,7.81,10,5
+O00202,C0440,R005,North Indian Kitchen 05,Delhi NCR,Shastri Nagar,North Indian,2026-08-06 13:12:40,1,1653.6,Cash,delivered,D055,7.6,18,5
+O00203,C0123,R055,Burgers Kitchen 55,Delhi NCR,Noida Sector 18,Burgers,2026-08-13 15:51:47,4,801.46,Card,delivered,D095,1.54,10,4
+O00204,C0011,R017,Desserts Kitchen 17,Delhi NCR,Noida Sector 18,Desserts,2026-08-11 11:21:59,4,536.38,Card,delivered,D049,11.16,21,5
+O00205,C0275,R036,North Indian Kitchen 36,Delhi NCR,Rohini,North Indian,2026-08-06 13:03:40,2,1472.98,Wallet,delivered,D020,3.09,14,5
+O00206,C0113,R012,Chinese Kitchen 12,Meerut,Gurugram Cyber City,Chinese,2026-08-14 13:25:13,4,689.6,Card,delivered,D058,9.69,8,4
+O00207,C0092,R051,South Indian Kitchen 51,Delhi NCR,Rohini,South Indian,2026-08-05 20:04:22,3,1642.36,UPI,delivered,D030,1.63,10,4
+O00208,C0178,R046,Desserts Kitchen 46,Delhi NCR,Shastri Nagar,Desserts,2026-08-14 19:48:41,5,219.03,Card,delivered,D052,7.03,14,5
+O00209,C0338,R041,North Indian Kitchen 41,Delhi NCR,Connaught Place,North Indian,2026-08-04 16:27:43,5,1404.2,Cash,delivered,D044,12.24,8,5
+O00210,C0251,R002,South Indian Kitchen 02,Delhi NCR,Shastri Nagar,South Indian,2026-08-04 11:58:24,2,654.11,Cash,delivered,D024,1.32,17,4
+O00211,C0419,R055,Burgers Kitchen 55,Delhi NCR,Noida Sector 18,Burgers,2026-08-10 19:19:37,4,524.76,Cash,delivered,D021,10.33,19,5
+O00212,C0222,R032,Biryani Kitchen 32,Meerut,Shastri Nagar,Biryani,2026-08-11 12:44:36,1,352.85,Card,delivered,D050,8.73,16,3
+O00213,C0237,R028,Burgers Kitchen 28,Meerut,Saket,Burgers,2026-08-12 16:54:12,1,834.68,Cash,delivered,D044,6.41,18,4
+O00214,C0111,R003,Biryani Kitchen 03,Delhi NCR,Connaught Place,Biryani,2026-08-09 13:28:44,5,276.41,UPI,delivered,D087,1.75,13,5
+O00215,C0341,R011,Momos Kitchen 11,Meerut,Ganga Nagar,Momos,2026-08-03 10:26:32,3,372.29,Cash,delivered,D093,11.81,18,4
+O00216,C0211,R037,South Indian Kitchen 37,Delhi NCR,Noida Sector 18,South Indian,2026-08-10 17:06:45,5,1057.89,Card,delivered,D099,8.86,20,5
+O00217,C0389,R015,Biryani Kitchen 15,Delhi NCR,Gurugram Cyber City,Biryani,2026-08-04 21:27:48,1,589.67,UPI,delivered,D040,3.51,12,3
+O00218,C0465,R029,South Indian Kitchen 29,Delhi NCR,Ganga Nagar,South Indian,2026-08-12 21:14:38,5,1596.33,Cash,delivered,D088,11.98,12,3
+O00219,C0091,R044,South Indian Kitchen 44,Meerut,Rohini,South Indian,2026-08-05 14:36:28,2,1748.36,Cash,delivered,D032,3.1,16,5
+O00220,C0132,R045,North Indian Kitchen 45,Delhi NCR,Saket,North Indian,2026-08-05 17:18:24,4,1099.43,UPI,delivered,D060,1.35,8,5
+O00221,C0468,R041,North Indian Kitchen 41,Delhi NCR,Connaught Place,North Indian,2026-08-12 17:40:44,1,789.09,Wallet,delivered,D066,8.33,9,5
+O00222,C0499,R007,Burgers Kitchen 07,Meerut,Noida Sector 18,Burgers,2026-08-04 16:10:53,3,882.99,Wallet,delivered,D067,9.98,23,5
+O00223,C0258,R009,Cafe Kitchen 09,Meerut,Saket,Cafe,2026-08-10 13:11:12,2,294.37,Card,delivered,D058,11.01,14,4
+O00224,C0406,R001,South Indian Kitchen 01,Delhi NCR,Noida Sector 18,South Indian,2026-08-10 18:48:17,4,1691.41,Cash,delivered,D049,10.43,14,5
+O00225,C0014,R015,Biryani Kitchen 15,Delhi NCR,Gurugram Cyber City,Biryani,2026-08-05 21:48:52,4,597.66,Wallet,delivered,D068,1.39,19,5
+O00226,C0198,R022,Healthy Kitchen 22,Meerut,Connaught Place,Healthy,2026-08-04 21:09:55,5,1032.09,UPI,delivered,D078,3.1,19,5
+O00227,C0144,R016,Biryani Kitchen 16,Meerut,Saket,Biryani,2026-08-05 20:30:57,2,1272.96,Wallet,delivered,D093,8.48,14,5
+O00228,C0161,R045,North Indian Kitchen 45,Delhi NCR,Saket,North Indian,2026-08-12 10:19:03,2,1144.1,Wallet,delivered,D074,8.7,14,5
+O00229,C0141,R055,Burgers Kitchen 55,Delhi NCR,Noida Sector 18,Burgers,2026-08-14 13:31:18,4,1326.62,UPI,delivered,D081,11.63,8,5
+O00230,C0357,R025,Pizza Kitchen 25,Delhi NCR,Rohini,Pizza,2026-08-14 18:25:06,5,409.44,UPI,delivered,D090,2.75,15,5
+O00231,C0348,R058,Healthy Kitchen 58,Meerut,Dwarka,Healthy,2026-08-01 11:22:30,1,487.41,UPI,delivered,D022,8.28,12,5
+O00232,C0060,R007,Burgers Kitchen 07,Meerut,Noida Sector 18,Burgers,2026-08-08 20:42:58,1,1015.6,Wallet,delivered,D016,12.5,17,5
+O00233,C0366,R058,Healthy Kitchen 58,Meerut,Dwarka,Healthy,2026-08-02 13:42:57,5,387.72,Card,cancelled,D084,7.7,,
+O00234,C0335,R020,North Indian Kitchen 20,Delhi NCR,Dwarka,North Indian,2026-08-09 14:54:48,1,256.01,Cash,delivered,D012,4.01,14,3
+O00235,C0097,R010,Biryani Kitchen 10,Meerut,Rohini,Biryani,2026-08-14 13:08:38,5,1083.31,Cash,delivered,D039,4.15,16,5
+O00236,C0084,R047,Momos Kitchen 47,Delhi NCR,Shastri Nagar,Momos,2026-08-06 16:24:01,2,1742.43,UPI,delivered,D020,1.95,18,5
+O00237,C0414,R060,Pizza Kitchen 60,Delhi NCR,Noida Sector 18,Pizza,2026-08-09 15:44:36,5,1584.64,Cash,delivered,D013,5.1,12,5
+O00238,C0362,R032,Biryani Kitchen 32,Meerut,Shastri Nagar,Biryani,2026-08-08 15:51:29,3,1003.57,Wallet,delivered,D024,5.79,9,4
+O00239,C0375,R010,Biryani Kitchen 10,Meerut,Rohini,Biryani,2026-08-08 18:43:43,1,1620.93,Wallet,cancelled,D062,9.14,,
+O00240,C0384,R041,North Indian Kitchen 41,Delhi NCR,Connaught Place,North Indian,2026-08-12 20:58:52,5,1798.67,UPI,delivered,D032,2.05,9,5
+O00241,C0473,R022,Healthy Kitchen 22,Meerut,Connaught Place,Healthy,2026-08-09 10:59:29,4,1627.99,UPI,delivered,D083,2.41,13,5
+O00242,C0337,R018,Healthy Kitchen 18,Meerut,Shastri Nagar,Healthy,2026-08-08 16:23:19,2,783.19,Cash,delivered,D029,5.2,8,5
+O00243,C0061,R047,Momos Kitchen 47,Delhi NCR,Shastri Nagar,Momos,2026-08-09 17:51:43,3,1342.91,Wallet,delivered,D063,2.63,8,5
+O00244,C0127,R044,South Indian Kitchen 44,Meerut,Rohini,South Indian,2026-08-12 18:11:15,1,649.82,Cash,delivered,D020,9.18,14,5
+O00245,C0103,R013,South Indian Kitchen 13,Delhi NCR,Saket,South Indian,2026-08-07 16:33:19,2,1320.25,Card,delivered,D007,1.78,20,4
+O00246,C0343,R004,Healthy Kitchen 04,Meerut,Saket,Healthy,2026-08-09 12:21:23,3,1386.07,Cash,delivered,D088,11.23,11,4
+O00247,C0066,R025,Pizza Kitchen 25,Delhi NCR,Rohini,Pizza,2026-08-09 21:16:57,5,1603.32,Cash,delivered,D054,6.66,11,5
+O00248,C0446,R034,South Indian Kitchen 34,Meerut,Connaught Place,South Indian,2026-08-03 17:48:32,4,814.64,Wallet,delivered,D010,3.66,15,5
+O00249,C0448,R057,North Indian Kitchen 57,Meerut,Rohini,North Indian,2026-08-11 13:52:13,1,1055.35,Cash,delivered,D007,9.36,16,5
+O00250,C0445,R014,Pizza Kitchen 14,Delhi NCR,Gurugram Cyber City,Pizza,2026-08-12 21:24:41,5,611.75,Card,delivered,D093,8.32,16,5
+O00251,C0312,R012,Chinese Kitchen 12,Meerut,Gurugram Cyber City,Chinese,2026-08-03 11:27:15,4,928.04,UPI,delivered,D009,5.54,11,4
+O00252,C0278,R039,Momos Kitchen 39,Delhi NCR,Rohini,Momos,2026-08-02 13:08:30,4,1415.47,Card,delivered,D091,9.02,12,5
+O00253,C0181,R036,North Indian Kitchen 36,Delhi NCR,Rohini,North Indian,2026-08-11 16:43:56,1,1343.76,Wallet,delivered,D029,2.06,13,5
+O00254,C0155,R036,North Indian Kitchen 36,Delhi NCR,Rohini,North Indian,2026-08-02 14:58:31,3,1258.77,UPI,delivered,D045,5.61,11,5
+O00255,C0254,R049,Biryani Kitchen 49,Delhi NCR,Connaught Place,Biryani,2026-08-12 16:38:50,2,1218.57,Card,delivered,D062,7.22,19,5
+O00256,C0435,R017,Desserts Kitchen 17,Delhi NCR,Noida Sector 18,Desserts,2026-08-08 12:53:54,4,1082.4,Card,delivered,D038,5.47,8,2
+O00257,C0292,R058,Healthy Kitchen 58,Meerut,Dwarka,Healthy,2026-08-03 12:30:47,5,424.18,Cash,delivered,D054,2.46,8,3
+O00258,C0217,R020,North Indian Kitchen 20,Delhi NCR,Dwarka,North Indian,2026-08-02 18:24:08,4,1389.02,UPI,delivered,D035,6.59,12,5
+O00259,C0145,R011,Momos Kitchen 11,Meerut,Ganga Nagar,Momos,2026-08-02 11:13:38,3,217.56,Card,delivered,D070,12.24,9,5
+O00260,C0201,R054,Cafe Kitchen 54,Meerut,Noida Sector 18,Cafe,2026-08-03 21:43:06,5,730.11,UPI,delivered,D046,7.83,17,5
+O00261,C0230,R017,Desserts Kitchen 17,Delhi NCR,Noida Sector 18,Desserts,2026-08-05 15:39:54,1,1704.23,Wallet,delivered,D044,8.29,15,5
+O00262,C0396,R032,Biryani Kitchen 32,Meerut,Shastri Nagar,Biryani,2026-08-08 14:48:56,2,907.27,UPI,delivered,D034,5.82,14,5
+O00263,C0437,R014,Pizza Kitchen 14,Delhi NCR,Gurugram Cyber City,Pizza,2026-08-07 12:36:25,2,1566.13,Wallet,delivered,D038,8.46,18,5
+O00264,C0360,R054,Cafe Kitchen 54,Meerut,Noida Sector 18,Cafe,2026-08-02 14:29:02,4,1072.13,Card,delivered,D061,1.91,19,5
+O00265,C0365,R032,Biryani Kitchen 32,Meerut,Shastri Nagar,Biryani,2026-08-09 13:42:57,1,615.12,UPI,delivered,D054,5.15,9,5
+O00266,C0075,R023,Healthy Kitchen 23,Meerut,Gurugram Cyber City,Healthy,2026-08-14 21:47:52,3,1378.75,UPI,delivered,D086,10.15,10,5
+O00267,C0348,R043,Chinese Kitchen 43,Meerut,Dwarka,Chinese,2026-08-06 15:01:19,5,1634.65,UPI,delivered,D002,5.18,15,5
+O00268,C0349,R049,Biryani Kitchen 49,Delhi NCR,Connaught Place,Biryani,2026-08-05 21:39:59,1,1649.41,UPI,delivered,D082,11.74,13,4
+O00269,C0059,R025,Pizza Kitchen 25,Delhi NCR,Rohini,Pizza,2026-08-02 15:50:58,4,942.32,UPI,delivered,D061,4.19,18,5
+O00270,C0293,R049,Biryani Kitchen 49,Delhi NCR,Connaught Place,Biryani,2026-08-09 16:12:39,1,1231.09,Wallet,delivered,D031,7.05,15,5
+O00271,C0048,R004,Healthy Kitchen 04,Meerut,Saket,Healthy,2026-08-01 20:49:37,5,444.88,UPI,delivered,D056,9.99,24,4
+O00272,C0297,R059,Biryani Kitchen 59,Meerut,Noida Sector 18,Biryani,2026-08-02 17:59:38,2,396.29,Cash,delivered,D014,11.51,16,4
+O00273,C0500,R023,Healthy Kitchen 23,Meerut,Gurugram Cyber City,Healthy,2026-08-08 19:38:34,5,208.02,Cash,delivered,D045,7.05,12,5
+O00274,C0240,R060,Pizza Kitchen 60,Delhi NCR,Noida Sector 18,Pizza,2026-08-09 16:59:12,2,600.15,Cash,delivered,D056,10.17,10,5
+O00275,C0310,R041,North Indian Kitchen 41,Delhi NCR,Connaught Place,North Indian,2026-08-01 11:11:51,2,716.29,Cash,delivered,D051,10.01,11,4
+O00276,C0344,R007,Burgers Kitchen 07,Meerut,Noida Sector 18,Burgers,2026-08-11 16:43:48,3,896.33,Card,delivered,D074,2.55,14,5
+O00277,C0471,R034,South Indian Kitchen 34,Meerut,Connaught Place,South Indian,2026-08-06 20:01:04,4,951.83,Cash,delivered,D006,6.78,17,3
+O00278,C0462,R042,South Indian Kitchen 42,Delhi NCR,Saket,South Indian,2026-08-01 21:55:03,1,615.5,UPI,cancelled,D069,8.97,,
+O00279,C0406,R045,North Indian Kitchen 45,Delhi NCR,Saket,North Indian,2026-08-12 12:59:08,1,1133.53,Card,delivered,D035,8.75,21,5
+O00280,C0031,R012,Chinese Kitchen 12,Meerut,Gurugram Cyber City,Chinese,2026-08-11 13:29:52,4,816.1,UPI,delivered,D002,9.21,13,5
+O00281,C0446,R043,Chinese Kitchen 43,Meerut,Dwarka,Chinese,2026-08-02 12:29:56,1,371.48,Card,cancelled,D083,8.68,,
+O00282,C0232,R024,Chinese Kitchen 24,Meerut,Connaught Place,Chinese,2026-08-02 18:05:22,2,890.36,Wallet,delivered,D034,5.38,15,3
+O00283,C0028,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-05 13:04:34,2,361.65,Wallet,delivered,D074,3.13,14,4
+O00284,C0073,R001,South Indian Kitchen 01,Delhi NCR,Noida Sector 18,South Indian,2026-08-08 16:21:01,3,484.02,UPI,delivered,D086,1.21,20,5
+O00285,C0377,R023,Healthy Kitchen 23,Meerut,Gurugram Cyber City,Healthy,2026-08-08 21:22:34,4,611.74,Cash,delivered,D058,9.95,17,5
+O00286,C0016,R029,South Indian Kitchen 29,Delhi NCR,Ganga Nagar,South Indian,2026-08-12 21:27:23,1,530.09,Card,delivered,D074,8.87,18,5
+O00287,C0314,R009,Cafe Kitchen 09,Meerut,Saket,Cafe,2026-08-13 17:36:50,3,1467.74,UPI,delivered,D056,2.9,21,5
+O00288,C0071,R041,North Indian Kitchen 41,Delhi NCR,Connaught Place,North Indian,2026-08-13 18:42:49,1,1097.2,Cash,delivered,D037,3.67,9,5
+O00289,C0155,R037,South Indian Kitchen 37,Delhi NCR,Noida Sector 18,South Indian,2026-08-05 19:59:40,2,937.85,Wallet,delivered,D011,9.04,19,5
+O00290,C0066,R036,North Indian Kitchen 36,Delhi NCR,Rohini,North Indian,2026-08-13 16:08:25,4,1272.13,Wallet,delivered,D007,4.97,15,4
+O00291,C0080,R037,South Indian Kitchen 37,Delhi NCR,Noida Sector 18,South Indian,2026-08-05 21:59:00,5,1488.99,Card,delivered,D081,2.29,13,4
+O00292,C0073,R029,South Indian Kitchen 29,Delhi NCR,Ganga Nagar,South Indian,2026-08-09 21:44:34,4,520.56,Cash,delivered,D022,4.31,19,5
+O00293,C0005,R011,Momos Kitchen 11,Meerut,Ganga Nagar,Momos,2026-08-09 18:13:22,5,1644.08,Wallet,delivered,D046,9.33,19,5
+O00294,C0133,R017,Desserts Kitchen 17,Delhi NCR,Noida Sector 18,Desserts,2026-08-06 19:37:22,4,1135.19,UPI,cancelled,D090,8.72,,
+O00295,C0256,R050,North Indian Kitchen 50,Meerut,Dwarka,North Indian,2026-08-06 13:49:51,2,1667.63,UPI,delivered,D061,8.11,8,4
+O00296,C0104,R020,North Indian Kitchen 20,Delhi NCR,Dwarka,North Indian,2026-08-14 18:51:50,5,507.67,UPI,delivered,D056,11.29,8,5
+O00297,C0257,R041,North Indian Kitchen 41,Delhi NCR,Connaught Place,North Indian,2026-08-10 18:54:08,4,1482.55,Wallet,delivered,D046,4.57,14,4
+O00298,C0313,R037,South Indian Kitchen 37,Delhi NCR,Noida Sector 18,South Indian,2026-08-10 10:34:44,5,1626.89,Wallet,delivered,D052,5.96,9,4
+O00299,C0392,R003,Biryani Kitchen 03,Delhi NCR,Connaught Place,Biryani,2026-08-02 16:38:47,1,1179.89,Wallet,delivered,D045,6.94,11,5
+O00300,C0393,R045,North Indian Kitchen 45,Delhi NCR,Saket,North Indian,2026-08-03 16:44:27,1,1079.27,Wallet,delivered,D090,6.13,12,3
+O00301,C0225,R011,Momos Kitchen 11,Meerut,Ganga Nagar,Momos,2026-08-01 15:22:38,2,1248.33,Cash,delivered,D037,2.07,15,4
+O00302,C0178,R047,Momos Kitchen 47,Delhi NCR,Shastri Nagar,Momos,2026-08-10 17:17:05,2,525.69,Card,delivered,D091,1.61,11,4
+O00303,C0197,R060,Pizza Kitchen 60,Delhi NCR,Noida Sector 18,Pizza,2026-08-14 16:24:28,2,271.06,Wallet,delivered,D003,1.55,18,5
+O00304,C0056,R045,North Indian Kitchen 45,Delhi NCR,Saket,North Indian,2026-08-11 14:54:34,5,941.6,Cash,delivered,D093,4.37,8,5
+O00305,C0092,R051,South Indian Kitchen 51,Delhi NCR,Rohini,South Indian,2026-08-01 17:00:29,3,259.21,Wallet,delivered,D060,11.81,13,4
+O00306,C0336,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-02 20:02:11,4,1295.11,Cash,cancelled,D030,12.22,,
+O00307,C0009,R050,North Indian Kitchen 50,Meerut,Dwarka,North Indian,2026-08-09 21:02:38,1,575.51,UPI,delivered,D046,4.88,10,5
+O00308,C0014,R014,Pizza Kitchen 14,Delhi NCR,Gurugram Cyber City,Pizza,2026-08-04 15:32:45,5,1449.4,Cash,delivered,D078,5.51,16,5
+O00309,C0267,R051,South Indian Kitchen 51,Delhi NCR,Rohini,South Indian,2026-08-05 13:53:36,2,668.9,Cash,delivered,D041,9.03,10,5
+O00310,C0424,R010,Biryani Kitchen 10,Meerut,Rohini,Biryani,2026-08-04 16:43:37,5,1265.44,Cash,delivered,D069,5.96,11,5
+O00311,C0221,R004,Healthy Kitchen 04,Meerut,Saket,Healthy,2026-08-03 11:08:32,4,1587.01,Wallet,delivered,D089,5.01,9,5
+O00312,C0149,R055,Burgers Kitchen 55,Delhi NCR,Noida Sector 18,Burgers,2026-08-03 21:11:46,5,1425.53,UPI,delivered,D090,8.54,19,5
+O00313,C0074,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-12 13:27:33,5,645.21,Cash,delivered,D095,6.7,12,4
+O00314,C0410,R025,Pizza Kitchen 25,Delhi NCR,Rohini,Pizza,2026-08-08 10:23:13,5,650.94,Wallet,delivered,D001,9.29,9,5
+O00315,C0398,R008,Desserts Kitchen 08,Delhi NCR,Shastri Nagar,Desserts,2026-08-12 15:57:59,1,261.37,Cash,delivered,D091,8.29,14,4
+O00316,C0384,R026,Healthy Kitchen 26,Delhi NCR,Dwarka,Healthy,2026-08-07 11:31:35,2,1177.95,UPI,delivered,D001,3.85,23,5
+O00317,C0215,R032,Biryani Kitchen 32,Meerut,Shastri Nagar,Biryani,2026-08-04 20:27:07,3,481.91,UPI,delivered,D042,5.86,20,4
+O00318,C0294,R011,Momos Kitchen 11,Meerut,Ganga Nagar,Momos,2026-08-04 20:07:39,2,1177.2,UPI,delivered,D069,9.87,14,5
+O00319,C0433,R004,Healthy Kitchen 04,Meerut,Saket,Healthy,2026-08-09 11:32:25,1,1466.15,Card,delivered,D097,4.28,8,4
+O00320,C0471,R010,Biryani Kitchen 10,Meerut,Rohini,Biryani,2026-08-12 19:50:25,5,510.85,Cash,delivered,D013,6.39,12,4
+O00321,C0115,R043,Chinese Kitchen 43,Meerut,Dwarka,Chinese,2026-08-07 13:28:23,1,962.89,Cash,delivered,D004,3.55,14,5
+O00322,C0354,R012,Chinese Kitchen 12,Meerut,Gurugram Cyber City,Chinese,2026-08-09 17:34:31,2,700.83,Cash,delivered,D097,6.01,8,3
+O00323,C0384,R047,Momos Kitchen 47,Delhi NCR,Shastri Nagar,Momos,2026-08-01 14:07:27,3,1793.19,Cash,delivered,D052,4.48,8,5
+O00324,C0077,R055,Burgers Kitchen 55,Delhi NCR,Noida Sector 18,Burgers,2026-08-01 14:44:12,1,518.83,Wallet,delivered,D009,1.95,15,5
+O00325,C0131,R040,Burgers Kitchen 40,Meerut,Shastri Nagar,Burgers,2026-08-11 20:12:04,1,1148.22,Card,delivered,D070,7.84,14,5
+O00326,C0001,R038,Healthy Kitchen 38,Delhi NCR,Ganga Nagar,Healthy,2026-08-01 12:32:51,4,903.5,Cash,delivered,D010,9.95,16,5
+O00327,C0286,R031,Pizza Kitchen 31,Meerut,Saket,Pizza,2026-08-06 12:01:55,4,785.1,Cash,delivered,D084,5.43,13,5
+O00328,C0357,R030,Chinese Kitchen 30,Delhi NCR,Ganga Nagar,Chinese,2026-08-11 10:36:52,4,248.68,Wallet,delivered,D036,5.38,8,5
+O00329,C0100,R002,South Indian Kitchen 02,Delhi NCR,Shastri Nagar,South Indian,2026-08-14 20:54:57,2,706.37,Cash,delivered,D043,1.89,24,4
+O00330,C0291,R013,South Indian Kitchen 13,Delhi NCR,Saket,South Indian,2026-08-08 11:07:58,1,344.9,Card,delivered,D073,8.41,8,5
+O00331,C0097,R018,Healthy Kitchen 18,Meerut,Shastri Nagar,Healthy,2026-08-03 14:16:44,1,903.36,Wallet,delivered,D026,10.57,19,5
+O00332,C0112,R032,Biryani Kitchen 32,Meerut,Shastri Nagar,Biryani,2026-08-01 11:33:42,4,1209.78,Card,delivered,D034,7.85,20,3
+O00333,C0386,R004,Healthy Kitchen 04,Meerut,Saket,Healthy,2026-08-13 19:29:37,4,1121.54,Wallet,delivered,D057,6.65,18,5
+O00334,C0454,R025,Pizza Kitchen 25,Delhi NCR,Rohini,Pizza,2026-08-13 12:08:42,1,733.04,UPI,delivered,D073,6.4,12,5
+O00335,C0358,R012,Chinese Kitchen 12,Meerut,Gurugram Cyber City,Chinese,2026-08-11 16:53:29,1,1329.96,Wallet,delivered,D061,9.45,18,5
+O00336,C0023,R012,Chinese Kitchen 12,Meerut,Gurugram Cyber City,Chinese,2026-08-07 11:21:24,4,1246.47,Card,delivered,D039,12.03,8,5
+O00337,C0295,R034,South Indian Kitchen 34,Meerut,Connaught Place,South Indian,2026-08-11 17:00:31,4,1246.11,Wallet,delivered,D050,8.02,15,5
+O00338,C0315,R054,Cafe Kitchen 54,Meerut,Noida Sector 18,Cafe,2026-08-07 10:29:18,4,263.75,Wallet,delivered,D059,5.01,14,4
+O00339,C0274,R009,Cafe Kitchen 09,Meerut,Saket,Cafe,2026-08-12 12:40:31,3,889.76,Cash,delivered,D017,1.66,20,4
+O00340,C0132,R013,South Indian Kitchen 13,Delhi NCR,Saket,South Indian,2026-08-02 13:36:16,5,1791.87,Card,delivered,D056,9.8,14,5
+O00341,C0326,R023,Healthy Kitchen 23,Meerut,Gurugram Cyber City,Healthy,2026-08-04 13:01:45,1,719.37,Cash,delivered,D013,7.93,20,5
+O00342,C0324,R033,Burgers Kitchen 33,Meerut,Ganga Nagar,Burgers,2026-08-06 11:13:47,3,1775.79,Cash,delivered,D072,2.96,11,5
+O00343,C0092,R020,North Indian Kitchen 20,Delhi NCR,Dwarka,North Indian,2026-08-13 21:25:35,2,853.63,Wallet,delivered,D099,8.71,15,5
+O00344,C0298,R048,Pizza Kitchen 48,Meerut,Ganga Nagar,Pizza,2026-08-07 16:12:40,2,246.47,Card,delivered,D054,11.88,19,4
+O00345,C0103,R038,Healthy Kitchen 38,Delhi NCR,Ganga Nagar,Healthy,2026-08-05 11:57:01,4,531.21,Wallet,delivered,D017,6.85,13,4
+O00346,C0491,R030,Chinese Kitchen 30,Delhi NCR,Ganga Nagar,Chinese,2026-08-09 11:45:49,5,1171.16,UPI,delivered,D092,5.71,9,5
+O00347,C0073,R029,South Indian Kitchen 29,Delhi NCR,Ganga Nagar,South Indian,2026-08-04 14:06:21,1,1227.26,Wallet,delivered,D062,8.99,13,5
+O00348,C0226,R036,North Indian Kitchen 36,Delhi NCR,Rohini,North Indian,2026-08-12 21:08:09,4,1171.92,Cash,delivered,D020,7.8,10,4
+O00349,C0343,R007,Burgers Kitchen 07,Meerut,Noida Sector 18,Burgers,2026-08-04 14:13:14,5,440.14,UPI,delivered,D044,11.44,23,5
+O00350,C0041,R057,North Indian Kitchen 57,Meerut,Rohini,North Indian,2026-08-08 19:33:15,2,591.51,Card,delivered,D008,7.44,17,4
+O00351,C0452,R057,North Indian Kitchen 57,Meerut,Rohini,North Indian,2026-08-06 20:04:12,4,965.28,UPI,delivered,D007,6.71,16,5
+O00352,C0209,R044,South Indian Kitchen 44,Meerut,Rohini,South Indian,2026-08-08 20:11:21,5,1011.67,Cash,delivered,D035,4.31,12,5
+O00353,C0327,R021,Momos Kitchen 21,Delhi NCR,Shastri Nagar,Momos,2026-08-13 11:48:14,5,541.15,Cash,delivered,D025,11.68,18,4
+O00354,C0138,R027,Healthy Kitchen 27,Delhi NCR,Gurugram Cyber City,Healthy,2026-08-08 14:23:09,3,689.97,Cash,delivered,D034,9.81,10,5
+O00355,C0167,R040,Burgers Kitchen 40,Meerut,Shastri Nagar,Burgers,2026-08-12 13:51:13,4,1188.09,Cash,delivered,D072,6.51,20,5
+O00356,C0423,R010,Biryani Kitchen 10,Meerut,Rohini,Biryani,2026-08-10 14:36:12,4,1098.94,Card,delivered,D020,10.44,20,5
+O00357,C0478,R002,South Indian Kitchen 02,Delhi NCR,Shastri Nagar,South Indian,2026-08-02 20:26:27,4,834.09,UPI,delivered,D018,6.14,13,3
+O00358,C0038,R049,Biryani Kitchen 49,Delhi NCR,Connaught Place,Biryani,2026-08-08 17:56:56,2,1790.96,Cash,cancelled,D036,11.25,,
+O00359,C0206,R043,Chinese Kitchen 43,Meerut,Dwarka,Chinese,2026-08-01 19:53:24,2,230.19,Cash,delivered,D038,7.22,19,5
+O00360,C0036,R023,Healthy Kitchen 23,Meerut,Gurugram Cyber City,Healthy,2026-08-04 20:13:12,4,684.69,Cash,delivered,D041,2.59,13,5
+O00361,C0063,R011,Momos Kitchen 11,Meerut,Ganga Nagar,Momos,2026-08-04 11:31:47,3,1167.76,Wallet,delivered,D097,6.95,15,5
+O00362,C0141,R038,Healthy Kitchen 38,Delhi NCR,Ganga Nagar,Healthy,2026-08-03 13:11:36,5,214.84,Card,delivered,D006,10.99,16,5
+O00363,C0105,R022,Healthy Kitchen 22,Meerut,Connaught Place,Healthy,2026-08-11 15:58:53,3,624.29,UPI,delivered,D052,11.52,8,3
+O00364,C0069,R059,Biryani Kitchen 59,Meerut,Noida Sector 18,Biryani,2026-08-13 20:00:19,3,961.99,Card,delivered,D078,6.6,15,5
+O00365,C0374,R037,South Indian Kitchen 37,Delhi NCR,Noida Sector 18,South Indian,2026-08-12 17:42:37,5,1031.87,Cash,delivered,D043,2.84,19,5
+O00366,C0208,R051,South Indian Kitchen 51,Delhi NCR,Rohini,South Indian,2026-08-08 19:16:34,3,903.78,Cash,delivered,D028,6.36,19,4
+O00367,C0224,R013,South Indian Kitchen 13,Delhi NCR,Saket,South Indian,2026-08-03 16:52:56,2,1797.67,Card,delivered,D065,7.99,17,4
+O00368,C0490,R049,Biryani Kitchen 49,Delhi NCR,Connaught Place,Biryani,2026-08-05 10:25:18,5,823.64,Wallet,delivered,D026,2.05,8,5
+O00369,C0403,R020,North Indian Kitchen 20,Delhi NCR,Dwarka,North Indian,2026-08-07 16:37:12,3,597.72,UPI,delivered,D083,11.87,14,4
+O00370,C0387,R054,Cafe Kitchen 54,Meerut,Noida Sector 18,Cafe,2026-08-05 10:24:53,1,1625.79,Wallet,delivered,D044,2.36,15,5
+O00371,C0169,R047,Momos Kitchen 47,Delhi NCR,Shastri Nagar,Momos,2026-08-14 14:22:05,4,220.68,Card,delivered,D086,2.37,18,5
+O00372,C0418,R046,Desserts Kitchen 46,Delhi NCR,Shastri Nagar,Desserts,2026-08-12 10:22:41,4,1461.02,UPI,delivered,D092,7.61,8,2
+O00373,C0108,R040,Burgers Kitchen 40,Meerut,Shastri Nagar,Burgers,2026-08-14 18:41:20,3,1385.13,Card,delivered,D099,9.56,21,5
+O00374,C0249,R024,Chinese Kitchen 24,Meerut,Connaught Place,Chinese,2026-08-13 17:57:23,2,1407.63,Cash,cancelled,D044,11.47,,
+O00375,C0359,R048,Pizza Kitchen 48,Meerut,Ganga Nagar,Pizza,2026-08-05 18:34:11,1,836.75,Card,delivered,D072,9.29,10,5
+O00376,C0423,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-09 12:42:17,2,242.17,Card,delivered,D032,1.34,9,4
+O00377,C0190,R042,South Indian Kitchen 42,Delhi NCR,Saket,South Indian,2026-08-06 18:22:04,2,1732.95,Cash,delivered,D031,12.29,8,5
+O00378,C0303,R031,Pizza Kitchen 31,Meerut,Saket,Pizza,2026-08-03 10:35:28,1,1094.39,Cash,delivered,D009,11.99,10,4
+O00379,C0346,R022,Healthy Kitchen 22,Meerut,Connaught Place,Healthy,2026-08-04 19:51:56,4,1012.73,Card,delivered,D043,1.8,13,5
+O00380,C0093,R002,South Indian Kitchen 02,Delhi NCR,Shastri Nagar,South Indian,2026-08-08 21:07:21,4,342.57,Wallet,delivered,D084,2.28,11,5
+O00381,C0001,R001,South Indian Kitchen 01,Delhi NCR,Noida Sector 18,South Indian,2026-08-06 16:19:01,5,1480.06,Cash,delivered,D001,3.25,20,4
+O00382,C0276,R057,North Indian Kitchen 57,Meerut,Rohini,North Indian,2026-08-13 14:59:18,2,372.44,Card,delivered,D016,11.6,15,5
+O00383,C0338,R014,Pizza Kitchen 14,Delhi NCR,Gurugram Cyber City,Pizza,2026-08-02 20:41:20,5,1658.99,Wallet,delivered,D067,6.26,11,4
+O00384,C0457,R043,Chinese Kitchen 43,Meerut,Dwarka,Chinese,2026-08-10 18:11:41,1,701.85,UPI,cancelled,D096,12.1,,
+O00385,C0027,R058,Healthy Kitchen 58,Meerut,Dwarka,Healthy,2026-08-14 16:47:32,2,1038.38,Cash,delivered,D088,11.28,13,5
+O00386,C0170,R011,Momos Kitchen 11,Meerut,Ganga Nagar,Momos,2026-08-14 13:23:58,1,1540.46,Card,delivered,D050,8.89,14,5
+O00387,C0066,R027,Healthy Kitchen 27,Delhi NCR,Gurugram Cyber City,Healthy,2026-08-11 11:07:10,4,1643.55,UPI,delivered,D010,4.42,20,4
+O00388,C0246,R009,Cafe Kitchen 09,Meerut,Saket,Cafe,2026-08-04 10:53:24,1,495.17,Card,delivered,D015,9.89,20,5
+O00389,C0195,R010,Biryani Kitchen 10,Meerut,Rohini,Biryani,2026-08-09 11:14:11,3,1203.54,Wallet,cancelled,D038,4.45,,
+O00390,C0083,R010,Biryani Kitchen 10,Meerut,Rohini,Biryani,2026-08-06 10:07:43,5,304.21,UPI,delivered,D071,11.39,8,5
+O00391,C0467,R055,Burgers Kitchen 55,Delhi NCR,Noida Sector 18,Burgers,2026-08-11 16:18:43,4,1185.68,Card,delivered,D074,6.61,21,5
+O00392,C0236,R031,Pizza Kitchen 31,Meerut,Saket,Pizza,2026-08-09 13:25:08,3,1544.22,Card,delivered,D091,11.96,18,5
+O00393,C0392,R047,Momos Kitchen 47,Delhi NCR,Shastri Nagar,Momos,2026-08-11 14:13:25,1,426.13,Wallet,delivered,D048,5.02,10,5
+O00394,C0445,R017,Desserts Kitchen 17,Delhi NCR,Noida Sector 18,Desserts,2026-08-08 15:39:59,5,1421.43,UPI,delivered,D098,4.95,8,4
+O00395,C0411,R020,North Indian Kitchen 20,Delhi NCR,Dwarka,North Indian,2026-08-03 16:07:34,4,1656.37,Card,delivered,D020,8.7,8,4
+O00396,C0011,R060,Pizza Kitchen 60,Delhi NCR,Noida Sector 18,Pizza,2026-08-10 15:56:21,3,1780.5,UPI,delivered,D086,2.45,12,5
+O00397,C0267,R002,South Indian Kitchen 02,Delhi NCR,Shastri Nagar,South Indian,2026-08-06 12:03:41,3,582.09,Cash,delivered,D063,6.38,18,4
+O00398,C0172,R042,South Indian Kitchen 42,Delhi NCR,Saket,South Indian,2026-08-14 16:26:45,3,747.41,Cash,delivered,D066,11.58,12,4
+O00399,C0045,R008,Desserts Kitchen 08,Delhi NCR,Shastri Nagar,Desserts,2026-08-12 10:47:51,5,745.82,UPI,delivered,D002,2.4,19,4
+O00400,C0321,R034,South Indian Kitchen 34,Meerut,Connaught Place,South Indian,2026-08-08 13:45:31,2,1168.73,Wallet,delivered,D025,6.94,13,3
+O00401,C0260,R048,Pizza Kitchen 48,Meerut,Ganga Nagar,Pizza,2026-08-04 16:16:52,2,751.61,UPI,delivered,D037,1.9,8,5
+O00402,C0231,R041,North Indian Kitchen 41,Delhi NCR,Connaught Place,North Indian,2026-08-13 17:23:31,4,680.4,Cash,delivered,D096,9.01,8,5
+O00403,C0339,R011,Momos Kitchen 11,Meerut,Ganga Nagar,Momos,2026-08-10 12:13:06,4,226.22,Card,delivered,D020,4.63,12,5
+O00404,C0111,R047,Momos Kitchen 47,Delhi NCR,Shastri Nagar,Momos,2026-08-01 14:40:10,3,741.73,Wallet,delivered,D063,9.39,13,5
+O00405,C0100,R017,Desserts Kitchen 17,Delhi NCR,Noida Sector 18,Desserts,2026-08-13 20:36:58,5,566.28,Card,delivered,D042,4.74,11,5
+O00406,C0031,R033,Burgers Kitchen 33,Meerut,Ganga Nagar,Burgers,2026-08-04 20:00:20,5,769.87,Wallet,delivered,D032,11.18,18,4
+O00407,C0437,R001,South Indian Kitchen 01,Delhi NCR,Noida Sector 18,South Indian,2026-08-05 13:09:18,4,240.45,UPI,delivered,D039,2.97,18,5
+O00408,C0331,R038,Healthy Kitchen 38,Delhi NCR,Ganga Nagar,Healthy,2026-08-03 15:39:53,3,1416.85,Cash,delivered,D051,6.81,8,5
+O00409,C0329,R057,North Indian Kitchen 57,Meerut,Rohini,North Indian,2026-08-12 12:35:52,2,343.16,Wallet,delivered,D051,8.92,14,2
+O00410,C0282,R008,Desserts Kitchen 08,Delhi NCR,Shastri Nagar,Desserts,2026-08-04 19:02:13,4,567.21,UPI,delivered,D006,5.69,14,4
+O00411,C0496,R046,Desserts Kitchen 46,Delhi NCR,Shastri Nagar,Desserts,2026-08-03 11:02:24,2,1487.42,Card,delivered,D027,5.28,17,3
+O00412,C0252,R033,Burgers Kitchen 33,Meerut,Ganga Nagar,Burgers,2026-08-10 14:50:42,2,1571.77,UPI,delivered,D072,11.9,8,5
+O00413,C0062,R037,South Indian Kitchen 37,Delhi NCR,Noida Sector 18,South Indian,2026-08-05 17:59:59,2,1619.78,UPI,delivered,D019,2.47,8,5
+O00414,C0296,R003,Biryani Kitchen 03,Delhi NCR,Connaught Place,Biryani,2026-08-02 14:45:18,2,1350.19,Cash,cancelled,D085,10.36,,
+O00415,C0333,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-14 16:35:44,2,981.64,UPI,delivered,D073,7.35,18,5
+O00416,C0346,R040,Burgers Kitchen 40,Meerut,Shastri Nagar,Burgers,2026-08-06 16:05:38,2,605.12,Cash,delivered,D053,3.06,22,3
+O00417,C0215,R009,Cafe Kitchen 09,Meerut,Saket,Cafe,2026-08-09 10:33:06,3,1120.74,Card,delivered,D065,9.47,10,5
+O00418,C0074,R007,Burgers Kitchen 07,Meerut,Noida Sector 18,Burgers,2026-08-05 13:48:25,2,684.57,UPI,delivered,D089,2.57,8,4
+O00419,C0304,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-08 10:31:20,3,762.4,Wallet,delivered,D087,8.21,19,5
+O00420,C0324,R009,Cafe Kitchen 09,Meerut,Saket,Cafe,2026-08-07 21:21:15,4,1165.77,UPI,delivered,D059,2.27,19,5
+O00421,C0025,R030,Chinese Kitchen 30,Delhi NCR,Ganga Nagar,Chinese,2026-08-02 21:33:31,4,478.27,Cash,delivered,D075,2.44,15,4
+O00422,C0060,R009,Cafe Kitchen 09,Meerut,Saket,Cafe,2026-08-03 12:47:38,4,1100.43,Wallet,delivered,D022,7.34,19,5
+O00423,C0280,R042,South Indian Kitchen 42,Delhi NCR,Saket,South Indian,2026-08-05 17:04:50,5,1250.02,Wallet,delivered,D072,2.71,10,5
+O00424,C0411,R026,Healthy Kitchen 26,Delhi NCR,Dwarka,Healthy,2026-08-11 17:30:30,2,542.6,Wallet,delivered,D025,2.63,16,5
+O00425,C0222,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-13 16:01:12,3,1274.65,Wallet,delivered,D042,11.24,21,5
+O00426,C0470,R023,Healthy Kitchen 23,Meerut,Gurugram Cyber City,Healthy,2026-08-14 18:38:20,4,1670.92,Wallet,delivered,D039,8.67,22,5
+O00427,C0099,R058,Healthy Kitchen 58,Meerut,Dwarka,Healthy,2026-08-09 20:26:17,4,622.26,Card,delivered,D043,5.28,24,5
+O00428,C0201,R033,Burgers Kitchen 33,Meerut,Ganga Nagar,Burgers,2026-08-05 19:29:34,3,746.24,UPI,delivered,D092,3.33,8,5
+O00429,C0028,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-05 11:35:34,1,629.46,Wallet,delivered,D009,5.01,8,5
+O00430,C0495,R058,Healthy Kitchen 58,Meerut,Dwarka,Healthy,2026-08-04 18:39:01,1,1727.16,Cash,delivered,D050,3.93,13,5
+O00431,C0197,R045,North Indian Kitchen 45,Delhi NCR,Saket,North Indian,2026-08-09 14:13:56,4,1277.3,Cash,delivered,D003,8.05,17,5
+O00432,C0366,R057,North Indian Kitchen 57,Meerut,Rohini,North Indian,2026-08-07 19:22:23,4,809.55,Wallet,delivered,D003,3.78,13,5
+O00433,C0082,R013,South Indian Kitchen 13,Delhi NCR,Saket,South Indian,2026-08-12 18:03:16,3,326.81,Wallet,delivered,D079,5.83,9,4
+O00434,C0086,R016,Biryani Kitchen 16,Meerut,Saket,Biryani,2026-08-13 13:38:45,1,323.28,Cash,delivered,D003,9.8,19,5
+O00435,C0434,R010,Biryani Kitchen 10,Meerut,Rohini,Biryani,2026-08-14 19:53:23,3,1118.18,Wallet,delivered,D031,8.05,16,3
+O00436,C0384,R046,Desserts Kitchen 46,Delhi NCR,Shastri Nagar,Desserts,2026-08-05 18:59:26,4,467.03,Card,delivered,D097,2.51,13,5
+O00437,C0384,R017,Desserts Kitchen 17,Delhi NCR,Noida Sector 18,Desserts,2026-08-13 14:25:15,2,427.7,Wallet,delivered,D084,6.44,12,5
+O00438,C0263,R055,Burgers Kitchen 55,Delhi NCR,Noida Sector 18,Burgers,2026-08-14 17:04:22,3,730.32,Card,cancelled,D006,9.61,,
+O00439,C0288,R018,Healthy Kitchen 18,Meerut,Shastri Nagar,Healthy,2026-08-01 18:13:40,1,1033.75,Wallet,delivered,D008,4.42,18,3
+O00440,C0074,R010,Biryani Kitchen 10,Meerut,Rohini,Biryani,2026-08-04 11:39:24,2,641.22,UPI,cancelled,D098,3.4,,
+O00441,C0292,R012,Chinese Kitchen 12,Meerut,Gurugram Cyber City,Chinese,2026-08-13 12:27:35,2,1109.1,UPI,delivered,D054,3.68,12,5
+O00442,C0286,R040,Burgers Kitchen 40,Meerut,Shastri Nagar,Burgers,2026-08-06 20:42:20,5,1042.73,Cash,delivered,D095,4.28,17,5
+O00443,C0381,R028,Burgers Kitchen 28,Meerut,Saket,Burgers,2026-08-10 15:19:05,5,587.99,Wallet,delivered,D054,5.79,10,5
+O00444,C0082,R038,Healthy Kitchen 38,Delhi NCR,Ganga Nagar,Healthy,2026-08-07 11:06:05,1,331.7,Card,delivered,D076,1.22,8,4
+O00445,C0473,R012,Chinese Kitchen 12,Meerut,Gurugram Cyber City,Chinese,2026-08-07 17:06:17,5,1149.39,UPI,delivered,D022,10.83,20,4
+O00446,C0434,R022,Healthy Kitchen 22,Meerut,Connaught Place,Healthy,2026-08-06 13:15:29,2,437.95,UPI,cancelled,D086,2.42,,
+O00447,C0230,R017,Desserts Kitchen 17,Delhi NCR,Noida Sector 18,Desserts,2026-08-12 11:18:49,3,732.37,Card,delivered,D020,11.85,24,5
+O00448,C0238,R050,North Indian Kitchen 50,Meerut,Dwarka,North Indian,2026-08-13 21:55:20,3,919.38,Wallet,delivered,D051,5.9,10,5
+O00449,C0191,R039,Momos Kitchen 39,Delhi NCR,Rohini,Momos,2026-08-02 17:49:52,2,1750.84,Card,delivered,D001,5.61,16,5
+O00450,C0209,R043,Chinese Kitchen 43,Meerut,Dwarka,Chinese,2026-08-13 11:30:53,4,1605.17,Card,delivered,D081,11.27,12,5
+O00451,C0482,R047,Momos Kitchen 47,Delhi NCR,Shastri Nagar,Momos,2026-08-09 21:50:49,3,1224.03,UPI,delivered,D003,4.45,22,4
+O00452,C0132,R047,Momos Kitchen 47,Delhi NCR,Shastri Nagar,Momos,2026-08-07 13:46:10,3,778.29,Cash,delivered,D021,11.07,8,5
+O00453,C0181,R021,Momos Kitchen 21,Delhi NCR,Shastri Nagar,Momos,2026-08-13 13:34:16,5,1360.5,UPI,delivered,D050,10.41,14,5
+O00454,C0500,R054,Cafe Kitchen 54,Meerut,Noida Sector 18,Cafe,2026-08-14 20:59:58,5,1449.22,Wallet,delivered,D030,6.32,8,1
+O00455,C0283,R039,Momos Kitchen 39,Delhi NCR,Rohini,Momos,2026-08-10 10:50:53,2,1220.93,Cash,delivered,D016,11.81,8,5
+O00456,C0269,R044,South Indian Kitchen 44,Meerut,Rohini,South Indian,2026-08-14 11:23:07,3,352.25,Cash,delivered,D077,10.24,16,4
+O00457,C0386,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-07 11:42:21,1,630.48,Card,cancelled,D040,11.27,,
+O00458,C0022,R055,Burgers Kitchen 55,Delhi NCR,Noida Sector 18,Burgers,2026-08-07 18:06:16,5,454.09,Card,delivered,D047,8.33,14,2
+O00459,C0253,R040,Burgers Kitchen 40,Meerut,Shastri Nagar,Burgers,2026-08-01 16:13:39,2,1267.01,Cash,delivered,D031,4.24,17,5
+O00460,C0021,R027,Healthy Kitchen 27,Delhi NCR,Gurugram Cyber City,Healthy,2026-08-12 10:46:04,2,1294.51,Card,delivered,D032,9.3,17,5
+O00461,C0440,R019,Burgers Kitchen 19,Delhi NCR,Dwarka,Burgers,2026-08-07 15:12:55,2,1265.37,Wallet,delivered,D027,6.1,8,4
+O00462,C0443,R018,Healthy Kitchen 18,Meerut,Shastri Nagar,Healthy,2026-08-07 14:10:30,2,552.91,UPI,delivered,D062,6.96,15,5
+O00463,C0343,R040,Burgers Kitchen 40,Meerut,Shastri Nagar,Burgers,2026-08-10 18:58:11,5,1204.03,UPI,delivered,D079,5.06,19,5
+O00464,C0389,R029,South Indian Kitchen 29,Delhi NCR,Ganga Nagar,South Indian,2026-08-06 17:14:27,1,1732.0,UPI,delivered,D069,6.48,8,5
+O00465,C0061,R013,South Indian Kitchen 13,Delhi NCR,Saket,South Indian,2026-08-13 19:34:47,2,1206.57,UPI,delivered,D033,11.67,14,5
+O00466,C0293,R002,South Indian Kitchen 02,Delhi NCR,Shastri Nagar,South Indian,2026-08-05 13:11:52,1,451.13,Card,delivered,D086,1.89,15,5
+O00467,C0018,R021,Momos Kitchen 21,Delhi NCR,Shastri Nagar,Momos,2026-08-14 16:06:05,2,1423.07,UPI,delivered,D088,9.26,10,5
+O00468,C0376,R057,North Indian Kitchen 57,Meerut,Rohini,North Indian,2026-08-14 10:12:25,5,672.85,Wallet,delivered,D099,9.53,8,5
+O00469,C0174,R034,South Indian Kitchen 34,Meerut,Connaught Place,South Indian,2026-08-02 14:16:21,2,1078.25,UPI,delivered,D069,7.05,15,5
+O00470,C0397,R002,South Indian Kitchen 02,Delhi NCR,Shastri Nagar,South Indian,2026-08-01 11:20:10,5,1412.09,UPI,delivered,D093,8.52,19,3
+O00471,C0082,R013,South Indian Kitchen 13,Delhi NCR,Saket,South Indian,2026-08-14 12:38:42,4,1122.22,Cash,delivered,D070,8.22,16,3
+O00472,C0409,R018,Healthy Kitchen 18,Meerut,Shastri Nagar,Healthy,2026-08-04 15:23:42,3,278.4,Card,delivered,D066,6.51,14,5
+O00473,C0064,R040,Burgers Kitchen 40,Meerut,Shastri Nagar,Burgers,2026-08-12 10:16:40,2,1373.26,Wallet,delivered,D068,7.17,13,3
+O00474,C0153,R020,North Indian Kitchen 20,Delhi NCR,Dwarka,North Indian,2026-08-04 16:48:45,5,408.82,Wallet,delivered,D003,10.49,11,4
+O00475,C0374,R002,South Indian Kitchen 02,Delhi NCR,Shastri Nagar,South Indian,2026-08-02 17:24:19,3,857.91,Cash,delivered,D086,5.36,8,5
+O00476,C0107,R056,Pizza Kitchen 56,Meerut,Gurugram Cyber City,Pizza,2026-08-04 18:16:37,1,704.12,Wallet,delivered,D046,6.34,14,5
+O00477,C0116,R006,Biryani Kitchen 06,Meerut,Rohini,Biryani,2026-08-14 10:46:04,5,1729.94,Wallet,delivered,D053,10.9,19,5
+O00478,C0066,R001,South Indian Kitchen 01,Delhi NCR,Noida Sector 18,South Indian,2026-08-12 16:21:30,4,1218.93,Cash,delivered,D032,8.89,13,5
+O00479,C0119,R028,Burgers Kitchen 28,Meerut,Saket,Burgers,2026-08-08 15:53:01,4,1138.49,Card,delivered,D068,2.87,21,4
+O00480,C0425,R024,Chinese Kitchen 24,Meerut,Connaught Place,Chinese,2026-08-01 15:15:31,4,1696.95,Wallet,delivered,D081,6.02,8,5
+O00481,C0234,R007,Burgers Kitchen 07,Meerut,Noida Sector 18,Burgers,2026-08-12 13:06:11,3,1428.15,Cash,delivered,D042,7.66,12,5
+O00482,C0400,R012,Chinese Kitchen 12,Meerut,Gurugram Cyber City,Chinese,2026-08-05 13:30:55,5,1267.37,Card,delivered,D044,9.38,18,3
+O00483,C0009,R052,Biryani Kitchen 52,Meerut,Rohini,Biryani,2026-08-05 19:51:10,5,844.57,Wallet,delivered,D058,8.45,16,5
+O00484,C0439,R012,Chinese Kitchen 12,Meerut,Gurugram Cyber City,Chinese,2026-08-04 11:11:53,2,1448.54,Cash,delivered,D023,5.81,12,5
+O00485,C0333,R016,Biryani Kitchen 16,Meerut,Saket,Biryani,2026-08-03 20:57:35,3,1411.22,UPI,delivered,D067,8.09,15,5
+O00486,C0473,R058,Healthy Kitchen 58,Meerut,Dwarka,Healthy,2026-08-01 18:30:51,2,881.53,Card,delivered,D028,10.73,9,5
+O00487,C0200,R007,Burgers Kitchen 07,Meerut,Noida Sector 18,Burgers,2026-08-02 16:32:12,2,320.09,Cash,delivered,D008,1.83,18,5
+O00488,C0329,R031,Pizza Kitchen 31,Meerut,Saket,Pizza,2026-08-03 10:46:23,3,552.82,Cash,cancelled,D081,5.62,,
+O00489,C0030,R052,Biryani Kitchen 52,Meerut,Rohini,Biryani,2026-08-03 21:25:48,2,1580.83,Card,delivered,D058,11.63,21,5
+O00490,C0119,R007,Burgers Kitchen 07,Meerut,Noida Sector 18,Burgers,2026-08-06 15:45:59,3,474.0,Wallet,delivered,D017,10.8,8,5
+O00491,C0063,R012,Chinese Kitchen 12,Meerut,Gurugram Cyber City,Chinese,2026-08-08 11:57:42,3,1072.3,Cash,delivered,D028,10.96,8,4
+O00492,C0008,R020,North Indian Kitchen 20,Delhi NCR,Dwarka,North Indian,2026-08-02 17:57:52,2,1142.39,UPI,delivered,D082,7.37,15,5
+O00493,C0012,R060,Pizza Kitchen 60,Delhi NCR,Noida Sector 18,Pizza,2026-08-10 18:46:40,1,885.9,Wallet,delivered,D090,7.06,13,5
+O00494,C0202,R050,North Indian Kitchen 50,Meerut,Dwarka,North Indian,2026-08-06 10:49:21,4,1062.52,UPI,delivered,D085,8.56,13,5
+O00495,C0488,R020,North Indian Kitchen 20,Delhi NCR,Dwarka,North Indian,2026-08-01 15:51:02,2,1722.24,Wallet,delivered,D017,2.67,18,5
+O00496,C0226,R013,South Indian Kitchen 13,Delhi NCR,Saket,South Indian,2026-08-03 13:57:34,4,842.65,Wallet,delivered,D046,4.31,20,5
+O00497,C0405,R048,Pizza Kitchen 48,Meerut,Ganga Nagar,Pizza,2026-08-06 20:33:00,2,837.75,Card,delivered,D069,5.5,15,5
+O00498,C0269,R028,Burgers Kitchen 28,Meerut,Saket,Burgers,2026-08-10 16:12:08,5,764.83,Cash,delivered,D059,9.55,22,5
+O00499,C0273,R056,Pizza Kitchen 56,Meerut,Gurugram Cyber City,Pizza,2026-08-12 17:11:58,4,1712.04,Card,delivered,D044,5.08,10,5
+O00500,C0167,R004,Healthy Kitchen 04,Meerut,Saket,Healthy,2026-08-06 17:49:43,3,659.69,Card,cancelled,D079,11.12,,
